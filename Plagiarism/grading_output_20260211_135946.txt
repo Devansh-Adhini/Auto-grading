@@ -1,0 +1,209 @@
+
+
+==================================================
+Batch 1/12
+==================================================
+Student: Akshay Humawat 20252501007.pdf
+*   Roll No: 20252501007
+*   Name: Akshay Humawat
+*   Grade: 7.5/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q1 (Proof by Cases): Missing question. (-1.0)
+    *   Q2 (Number Theory - Perfect Squares): Initial statement about perfect squares modulo 4 is incorrect (states 0 or 2, should be 0 or 1). However, the application of 3 mod 4 leading to "not a perfect square" for the first number is correct. (-0.5)
+    *   Q4 (Rearrangement Inequality):
+        *   Q4(a): Logic is present but slightly informal; the "swapping would increase the sum" needs clearer articulation in context of achieving maximum. (-0.25)
+        *   Q4(b): Algebraic expression for the swap `(Maya-nayo) (noyo-1oya) >= 0` is confusing and incorrect. The reasoning for minimum is muddled. (-0.75)
+    *   Q7(b) (Injectivity/Surjectivity - ZxZ->Z): Example for not injective `f(2,2)=3` is algebraically incorrect (m^2-n^2 for (2,2) is 0, not 3). However, the conclusion that it's not injective is correct, and the reasoning for not surjective is good. (-0.25)
+    *   Q8(c) (Bijectivity - R->R): Example for not injective `f(2)=2, f(-1)=2` is incorrect. `f(2)=5/6` and `f(-1)=2/3`. Surjectivity explanation is weak; it lacks clear derivation of the range. (-0.5)
+    *   Q9 (Function Composition): The example provided fails to meet the specified conditions for `f` (not one-to-one) and `g` (not onto) while `f o g` is bijective. The definition of the functions and their domains/codomains are inconsistent. (-1.0)
+*   Missing questions: Q1.
+*   Plagiarism: No plagiarism found
+
+---
+Student: Kushagra Chasta 20252503026.pdf
+*   Roll No: 20252503026
+*   Name: Kushagra Chasta
+*   Grade: 2.0/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q1 (Proof by Cases): Missing question. (-1.0)
+    *   Q2 (Number Theory - Perfect Squares): Missing question. (-1.0)
+    *   Q3 (Density of Irrationals): Missing question. (-1.0)
+    *   Q4(a) (Rearrangement Inequality): Missing question. (-1.0)
+    *   Q4(b) (Rearrangement Inequality): Missing question. (-1.0)
+    *   Q5(a) (Function properties for sets): Missing question. (-1.0)
+    *   Q5(b) (Function properties for sets): Missing question. (-0.5)
+    *   Q6(a) (Injectivity/Onto - Z->Z): Missing question. (-1.0)
+    *   Q6(b) (Injectivity/Onto - Z->Z): Missing question. (-1.0)
+    *   Q6(c) (Injectivity/Onto - Z->Z): Missing question. (-1.0)
+    *   Q7(a) (Injectivity/Surjectivity - ZxZ->Z): Missing question. (-1.0)
+    *   Q7(b) (Injectivity/Surjectivity - ZxZ->Z): Missing question. (-1.0)
+    *   Q7(c) (Injectivity/Surjectivity - ZxZ->Z): Missing question. (-1.0)
+    *   Q8(a) (Bijectivity - R->R): Missing question. (-1.0)
+    *   Q8(b) (Bijectivity - R->R): Missing question. (-1.0)
+    *   Q8(c) (Bijectivity - R->R): Missing question. (-1.0)
+*   Missing questions: Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8.
+*   Plagiarism: No plagiarism found
+
+---
+Student: Atodariya Varunsinh Manojsinh 20252561011.pdf
+*   Roll No: 20252561011
+*   Name: Atodariya Varunsinh Manojsinh
+*   Grade: 8.5/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q1 (Proof by Cases): Missing question. (-1.0)
+    *   Q4(b) (Rearrangement Inequality): The logic for `Delta` and its implication regarding "swapping increases the sum" is a bit confused in the context of minimizing the sum. (-0.5)
+    *   Q7(b) (Injectivity/Surjectivity - ZxZ->Z): For surjective, the reasoning about numbers like 2, 6, 10 not being representable is correct, but the final conclusion `So it is injective` is incorrect. (-0.25)
+    *   Q8(c) (Bijectivity - R->R): While correctly concluding not surjective, the range `(0,1)` is slightly off by an endpoint (should be `[1/2, 1)`). (-0.25)
+    *   Q9 (Function Composition): The example provided fails to meet the specified conditions for `f` (not one-to-one) and `g` (not onto) while `f o g` is bijective. The definition of the functions and their domains/codomains are inconsistent. (-1.0)
+*   Missing questions: Q1.
+*   Plagiarism: No plagiarism found
+
+---
+Student: Bhalodiya Dev 20252501013.pdf
+*   Roll No: 20252501013
+*   Name: Bhalodiya Dev
+*   Grade: 8.0/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q5(a) (Function properties for sets): Proof for one direction (`f(S) U f(T) is a subset of f(S U T)`) is missing. (-0.5)
+    *   Q6(b) (Injectivity/Onto - Z->Z): Relies solely on graphical representation for injectivity and onto, lacking formal examples or definitions. (-0.5)
+    *   Q6(c) (Injectivity/Onto - Z->Z): Relies solely on graphical representation for injectivity and onto, lacking formal examples or definitions. (-0.5)
+    *   Q7(a) (Injectivity/Surjectivity - ZxZ->Z): For surjective, only states `Thus it's surjective` without providing a formal proof or a constructive example. (-0.25)
+    *   Q7(b) (Injectivity/Surjectivity - ZxZ->Z): For surjective, only states `Hence not surjective` without providing a formal proof. (-0.25)
+    *   Q7(c) (Injectivity/Surjectivity - ZxZ->Z): For surjective, only states `Thus it's surjective` without providing a formal proof. (-0.25)
+    *   Q9 (Function Composition): The example provided uses `f(x)=sqrt(x)` and `g(x)=x^2`, which does not satisfy the requirements of `f` not being one-to-one and `g` not being onto in the specified domains. (-1.0)
+*   Missing questions: None.
+*   Plagiarism: No plagiarism found
+
+---
+Student: 20252501014.pdf
+*   Roll No: 20252501014
+*   Name: (Not found in PDF, using Roll No)
+*   Grade: 8.5/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q3 (Density of Irrationals): While the construction `y = r + (i-r)/sqrt(2)` is valid, the proof that `r < y < i` is not fully explicit. (-0.25)
+    *   Q6(b) (Injectivity/Onto - Z->Z): For onto, the reasoning is somewhat unclear. (-0.25)
+    *   Q6(c) (Injectivity/Onto - Z->Z): Example for not injective `f(1)=0` is incorrect (should be `f(1)=1`). (-0.25)
+    *   Q7(b) (Injectivity/Surjectivity - ZxZ->Z): The example for not injective is incorrect. The reasoning for surjective is fundamentally flawed, leading to an incorrect conclusion (`Hence, onto`). (-1.0)
+*   Missing questions: None.
+*   Plagiarism: No plagiarism found
+
+---
+Student: Chaudhary Harsh Ashokkumar 20252501016.pdf
+*   Roll No: 20252501016
+*   Name: Chaudhary Harsh Ashokkumar
+*   Grade: 9.0/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q7(b) (Injectivity/Surjectivity - ZxZ->Z): For surjective, the reasoning provided (`k>=0 choose m=k, n=0` and `k<0 choose m=0, n=-k`) is appropriate for `f(m,n) = |m|-|n|` (Question 7c), not `f(m,n) = m^2-n^2`. While the conclusion "isn't onto" is correct, the justification is incorrect for this function. (-0.5)
+    *   Q8(c) (Bijectivity - R->R): For injective, no specific counterexample is provided, only states "is not injective". (-0.25)
+*   Missing questions: None.
+*   Plagiarism: No plagiarism found
+
+---
+Student: 20252501019.pdf
+*   Roll No: 20252501019
+*   Name: (Not found in PDF, using Roll No)
+*   Grade: 9.5/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   None. All questions answered correctly and comprehensively.
+*   Missing questions: None.
+*   Plagiarism: No plagiarism found
+
+==================================================
+Batch 2/12
+==================================================
+Here is the grading for the attached PDF assignments:
+
+---
+Student: `Student_Unknown_1`
+*   Roll No: N/A
+*   Name: N/A
+*   Grade: 9.0/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q2 (Proof by contradiction): The student correctly identified that 2*10^500 + 15 is not a perfect square (being 3 mod 4). However, in the conclusion, stating that 2*10^500 + 16 "is a perfect square" is logically unsound, as being 0 mod 4 only means it *could* be a perfect square, not that it definitely is. The proof only requires showing one is not a perfect square, which was done correctly for 2*10^500 + 15. (-0.5)
+    *   Q9 (Function composition): The example provided for `g` and `f` leads to `f o g` not being bijective, which contradicts the problem statement. Specifically, `g(a)=c, g(b)=c` makes `g` not injective, and then `f o g (a) = x, f o g (b) = x` makes `f o g` not injective and thus not bijective. (-1.0)
+    *   Q12(b) (Tautology/Contradiction): The logical simplification of `~(q -> p) ^ r ^ (p -> q)` to `(q ^ ~p) ^ r ^ (~p V q)` is correct, but the subsequent reasoning that `~(q ^ p)` (which is `q ^ ~p`) is "already true" is incorrect. This expression is a contingency, not a tautology or contradiction. (-1.0)
+*   Missing questions: None
+*   Plagiarism: No plagiarism found
+
+---
+Student: `Student_Gaurav_Kumar`
+*   Roll No: N/A
+*   Name: Gaurav Kumar
+*   Grade: 9.5/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q1 (Direct proof): The proof by cases for n=1, 2, 3, 4 is a valid method, but the student only checked n=1, 2, 3, missing the case for n=4. (-0.5)
+    *   Q4(b) (Maximum/Minimum Sum): The reasoning for showing the minimum sum is flawed. The argument for swapping elements when both sequences are nondecreasing demonstrates that such swaps *increase* the sum, implying the nondecreasing arrangement is optimal for maximum, not minimum. For the minimum, one sequence should be nondecreasing and the other nonincreasing, and swapping elements in that arrangement would show the sum increases. (-0.5)
+    *   Q7(b) (Injective/Surjective): The argument for surjectivity is confusing ("we take every value of m, than give a perfect square! Not give negative integer"). While the conclusion that `f(m,n)` is not surjective is correct (as 2 is not in the range), the justification provided is unclear and partially incorrect (e.g., negative integers *can* be formed, like `f(0,1) = -1`). (-0.5)
+    *   Q8(b) (Bijective Function): The student correctly identifies `f(x) = x^3` as injective but does not provide a proof or explanation for its surjectivity (i.e., that for every `y` in R, there exists a real `x` such that `x^3 = y`). (-0.5)
+    *   Q8(c) (Bijective Function): The range analysis for `f(x) = (x^2 + 1) / (x^2 + 2)` is incorrect. The range is `[1/2, 1)`, not "Minimum value = 1/2, maximum value = infinity". This impacts the surjectivity determination. (-0.5)
+*   Missing questions: None
+*   Plagiarism: No plagiarism found
+
+---
+Student: `Student_Hansa_Burdak`
+*   Roll No: 20252501025
+*   Name: Hansa Burdak
+*   Grade: 10.0/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q9 (Function composition): The example provided for `f` and `g` does not satisfy the conditions. The chosen `g` (`g(1)=c, g(2)=d` for A={1,2}, B={c,d}) is onto, but the problem requires `g` to be *not* onto. The chosen `f` (`f(c)=x, f(d)=y` for C={x,y}) is one-to-one, but the problem requires `f` to be *not* one-to-one. Therefore, the example is incorrect. (-1.0)
+*   Missing questions: None
+*   Plagiarism: No plagiarism found
+
+---
+Student: `Student_KOPPISETTI_MOHAN_SRIRAM`
+*   Roll No: 20252501030
+*   Name: KOPPISETTI MOHAN SRIRAM
+*   Grade: 10.0/10
+
+Detailed Feedback:
+*   Questions where marks were deducted: None.
+*   Missing questions: None.
+*   Plagiarism: No plagiarism found
+
+---
+Student: `Student_Konai`
+*   Roll No: 20252501031
+*   Name: Konai
+*   Grade: 10.0/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q9 (Function composition): The example provided for `f` and `g` does not satisfy the conditions. The chosen `f` (`f(x)=sqrt(x)` for domain `[0,inf)`) is one-to-one, but the problem requires `f` to be *not* one-to-one. The chosen `g` (`g(x)=x^2` for domain R, codomain `[0,inf)`) is onto its codomain, but for `g` to be "not onto" (as typically interpreted when the codomain is R), it needs `g: R -> R` where the range `[0,inf)` is a proper subset of the codomain `R`. The example is incorrect as `f` is one-to-one. (-1.0)
+    *   Q12(b) (Tautology/Contradiction): While the truth table is correctly filled, the conclusion drawn ("a case of contradiction") is incorrect. The expression is a contingency, as it is true in some cases and false in others. (-0.5)
+*   Missing questions: None
+*   Plagiarism: No plagiarism found
+
+---
+Student: `Student_Unknown_2`
+*   Roll No: N/A
+*   Name: N/A
+*   Grade: 9.5/10
+
+Detailed Feedback:
+*   Questions where marks were deducted:
+    *   Q3 (Irrational number between): The proof for `(a+b)/2` being irrational (where `a` is rational and `b` is irrational) is not explicitly stated. It only states "a+b is irrational" and "rational divided by irrational is irrational", which is a vague and incomplete justification for this step. A proof by contradiction is required. (-0.5)
+    *   Q9 (Function composition): The example provided for `f` and `g` does not satisfy the conditions. The chosen `f` (`f(x)=x^3`) is one-to-one, but the problem requires `f` to be *not* one-to-one. Thus, the example is incorrect. (-1.0)
+    *   Q10 (Invertible Function): The solution directly states the inverse without first proving that the function is invertible (i.e., showing it is bijective through injectivity and surjectivity). The question explicitly asks to "show" it is invertible. (-0.5)
+    *   Q12(b) (Tautology/Contradiction): The truth table for `~(q -> p) ^ r ^ (p -> q)` is filled incorrectly and the conclusion ("It is a Tautology") is also incorrect. The expression is a contingency. (-1.0)
+*   Missing questions: None
+*   Plagiarism: No plagiarism found

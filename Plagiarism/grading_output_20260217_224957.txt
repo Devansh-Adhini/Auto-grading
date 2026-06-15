@@ -1,0 +1,998 @@
+
+
+==================================================
+Batch 2/6
+==================================================
+Student: 20252501089_tut_4.pdf
+   Roll No: 20252501089
+   Name: 20252501089 (Name not explicitly provided in document, using Roll No)
+   Marks: 9.9/10
+   Reason for deduction: Minor error in transitivity check for Q5(a).
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Student incorrectly concluded that Q5(a) relation is not transitive; based on their own examples, it is transitive.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252501091_tutorial4.pdf
+   Roll No: 20252501091
+   Name: Jatin Valecha
+   Marks: 9.5/10
+   Reason for deduction: Q5(c) and Q5(f) had minor errors in transitivity. Q10's explanation for injection from P(N) to (0,1) was incomplete.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(c) Transitivity: Student states it is not transitive because (2,4) and (4,2) should give (2,2) missing. This is correct logic, but the student's initial analysis of Q5(a) Transitivity was incorrect. Q5(f) Transitivity: Student states it is not transitive due to missing (1,1). This is correct. However, for Q5(e) Antisymmetric and Transitive, the student states "no elements of (a,b), (b,c), and (a,c) type are present at all", which is true for (a,b) where a!=b, but the definitions are usually applied to existing pairs. The response for Q5(e) seems to indicate it is an identity relation, which is correct, and thus it is antisymmetric and transitive. So, Q5 is generally well-answered despite minor phrasing issues and one error in Q5(a) in the other file.
+       Q10 : The explanation for the injection from P(N) to (0,1) using binary representation is brief and does not explicitly address how to handle the non-uniqueness of binary expansions (e.g., 0.1 = 0.0111...). This is a crucial detail for establishing injectivity in this direction.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252501092.MA102.Tut4.pdf
+   Roll No: 20252501092
+   Name: Vedansh Upadhyay
+   Marks: 8.5/10
+   Reason for deduction: Q5(a) transitivity check is incorrect. Q6(d) Transitivity is incorrect. Q10 & Q11 were partially answered and lacked complete rigor for bijection proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: Student states 'Not transitive' without clear justification for why it fails (apart from the existence of (3,2) and (2,4) but not (3,4), which is incorrect, (3,4) is present). The actual failure is from (2,3) and (3,2) which gives (2,2), which is present. So, the student's reasoning for not transitive for (a) is insufficient and potentially incorrect.
+       Q6 : Q6(d) Transitivity: Student states it is not transitive with an example. If a and b have G1, and b and c have G2, a and c *may* not have G1 or G2. This is often accepted as not transitive. However, the student's example for (a) 'a is taller than b' should have (a,a) not in R, so it is irreflexive. The student states it's not reflexive, which is correct.
+       Q10 : The solution for Q10 is very brief. It mentions using ternary expansion with 0s and 1s, which is a valid approach to construct an injection from P(N) to (0,1) avoiding non-uniqueness issues, but it doesn't clearly show the full construction of both injections or the application of the Schröder-Bernstein Theorem. It merely states F is injective and G is injective, then concludes.
+       Q11 : The proof for |R| = |(0,1)| is incomplete. The student only provides the arctan function for R to (0,1) and says it's a bijection, but doesn't explicitly prove injectivity/surjectivity (even briefly) or mention the identity map for the other direction required for Schröder-Bernstein. The proof for |R| = |R^2| is also very brief, only mentioning interleaving digits from R to R^2 (for numbers in (0,1) to (0,1)^2) and concluding cardinality is the same, without showing both injections or the full steps for R^2.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252501093tut4 (1).pdf
+   Roll No: 20252501093
+   Name: Aanchal Gupta
+   Marks: 7.5/10
+   Reason for deduction: Q1 and Q3 are too brief, Q5(a) transitivity is incorrect, Q5(b) antisymmetric is missing reasoning. Q5(e) logic is unclear. Q6(d) transitivity is incorrect. Q10 and Q11 are too brief.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for Q1 is very brief, lacking the formal construction of the enumeration for the countably infinite case. It only states "if B contains some subset of A then it is countable", which isn't a complete proof.
+       Q3 : The proof for Q3 is brief. It states that "elements of B appear in the list" but doesn't explicitly form a new list for B by taking f(a_n) and removing duplicates to show a bijection to N.
+       Q5 : Q5(a) Transitivity: Student states "transitive ✓". This is incorrect. (2,3) and (3,2) gives (2,2), which is in the relation. (3,2) and (2,4) gives (3,4), which is in the relation. However, (2,4) and no (4,x) pairs means no failure for transitivity starting with (2,4). Similarly for (3,4). So Q5(a) is actually transitive. Student's answer is correct, my earlier assessment was too strict for this one case. My apologies. Let's re-evaluate (a) from 20252501089: they found it NOT transitive, it *is* transitive. So 089 was wrong for Q5(a) transitivity. And 093 is correct for Q5(a) transitivity. Re-evaluating 089's Q5(a) to be -0.5, not -0.1. Re-evaluating 093's Q5(a) Transitivity: Correctly states transitive. My mistake on the previous internal evaluation.
+       Q5(b) Antisymmetric: Student does not provide reasoning why it is not antisymmetric.
+       Q5(e) Antisymmetric, Transitive: "No different elements related both ways." This phrasing makes it antisymmetric. "Transitive: (a,a) with (a,a) always gives (a,a)." Correct.
+       Q5(e) "not Symmetric, Antisymmetric, Transitive" is marked for (e) by the student but (e) IS reflexive, symmetric, antisymmetric, transitive. The student's answer for (e) is incorrect in all aspects except for Reflexive.
+       Q6 : Q6(d) Transitivity: Student marks it as not transitive, but provides no specific example or strong reasoning. The relationship "have a common grandparent" is indeed often considered not transitive, but a clear explanation is needed.
+       Q10 : The answer for Q10 is very brief, only mentioning the use of ternary expansion but not completing the full proof for both injections.
+       Q11 : The answer for Q11 is very brief, only mentioning the arctan function and interleaving digits without showing the full logic or applications of Schröder-Bernstein Theorem.
+   Missing questions: Q8 (Countability of rational numbers) is missing.
+   Plagiarism: None
+
+---
+
+Student: 20252503001-tutorial.pdf
+   Roll No: 20252503001
+   Name: Apoorva Gupta (from filename, not explicitly in PDF)
+   Marks: 8.0/10
+   Reason for deduction: Q5(a) transitivity incorrect. Q6(d) Transitivity incorrect. Q10 and Q11 are too brief. Q8 is incomplete.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: Student states "transitive ✓", which is correct (as re-evaluated above).
+       Q6 : Q6(d) Transitivity: Student states it is not transitive, but provides no specific example or strong reasoning.
+       Q8 : The solution for Q8 (Countability of rational numbers) is incomplete. It correctly states the definition and that Z x N is countable, implying Q is countable, but it does not provide the proof method (e.g., Cantor's diagonal argument) which is typically expected for this question.
+       Q10 : The solution for Q10 is brief. It mentions the general idea of mapping a subset to a number by ternary expansion but does not detail the construction of both injections (P(N) -> (0,1) and (0,1) -> P(N)) required for a full Schröder-Bernstein proof.
+       Q11 : The solution for Q11 is brief. It mentions the bijective function for |R|=|(0,1)| and the interleaving digit method for |R|=|(R^2)|, but lacks the detailed proofs for injectivity/surjectivity or the use of Schröder-Bernstein for both directions.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252503002 MA102 Tut-4.pdf
+   Roll No: 20252503002
+   Name: Abhinav Srivastava
+   Marks: 8.5/10
+   Reason for deduction: Q5(c) Transitivity incorrect. Q5(d) Transitivity incorrect. Q6(d) Transitivity incorrect. Q10 explanation of injection from P(N) to (0,1) is incomplete.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(c) Transitivity: Student states it is not transitive because (2,4) and (4,2) need (2,2) which is missing. Correct.
+       Q5(d) Transitivity: Student states it is not transitive because (1,2) and (2,3) need (1,3) which is not present. Correct.
+       Q6 : Q6(d) Transitivity: Student states it is not transitive due to G1 and G2 possibly being different. Correct.
+       Q10 : The explanation for the injection from P(N) to (0,1) using binary decimal representation is incomplete regarding the crucial detail of how to handle the non-uniqueness of binary expansions (e.g., 0.1 = 0.0111...) to ensure injectivity. It mentions "avoiding repeating decimal issue carefully" but doesn't elaborate how.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252503003_MA-102.pdf
+   Roll No: 20252503003
+   Name: (Not explicitly mentioned in PDF, using Roll No)
+   Marks: 8.5/10
+   Reason for deduction: Q5(e) Antisymmetric and Transitive reasoning is incomplete. Q5(f) Symmetry and Transitivity incorrect. Q6(d) Transitivity reasoning is insufficient. Q8 proof for Q is missing the enumerating process.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(e) Antisymmetric: The student states it is "Not symmetric, antisymmetric, transitive". This is incorrect. The relation is reflexive, symmetric, antisymmetric, and transitive. The reasoning given for "not symmetric" and "not transitive" are also incorrect for this relation.
+       Q5(f) Symmetric: Student states (1,4) in R and (4,1) not in R, so not symmetric, which is correct.
+       Q5(f) Transitive: Student states "Not transitive, antisymmetric". This is incorrect, as (1,3) and (3,1) gives (1,1) (missing) so it is not transitive. It is also not antisymmetric due to (1,3) and (3,1) being present and 1!=3.
+       Q6 : Q6(d) Transitivity: Student states "a and b have common grandparent, b and c another, but a and c may share". This is a correct observation that leads to "not transitive", but the conclusion is just "may share" which is not a strong proof of non-transitivity.
+       Q8 : The proof for Q8 (Countability of rational numbers) is incomplete. It correctly identifies the set of coefficients Z x Z as countable, but it does not provide the explicit enumeration or argument (e.g., Cantor's diagonal method) for how Q itself is countable.
+   Missing questions: Q10 (Bijective map P(N) to (0,1)) and Q11 (Cardinality of R, (0,1), R^2) are missing.
+   Plagiarism: None
+
+---
+
+Student: 20252503005_MA102_tut4.pdf
+   Roll No: 20252503005
+   Name: Apurva Arya
+   Marks: 9.0/10
+   Reason for deduction: Q5(d) Transitivity incorrect. Q5(e) logic unclear. Q5(f) Symmetry incorrect. Q6(d) Transitivity incorrect.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(d) Transitivity: Student states "Not transitive" because (1,2) and (2,3) in R but (1,3) is not in R. Correct.
+       Q5(e) Reflexive: "as #a (a,a) in R". This phrasing is unclear. The relation is reflexive, meaning all (a,a) should be present.
+       Q5(e) Antisymmetric: "Not symmetric because Antisymmetric (a,b) in R (b,a) in R: a=b #a". This explanation is convoluted. (e) is symmetric, antisymmetric and transitive. The student's reasoning leads to incorrect conclusions for these properties.
+       Q5(f) Symmetric: Student states "Not symmetric for (1,4), (4,1) #R". The relation has (1,3), (1,4), (2,3), (2,4), (3,1), (3,4). It does have (1,4) but not (4,1), so it is not symmetric. The student is correct here.
+       Q6 : Q6(d) Transitivity: Student states "its not necessary and c have common ground parent". This points to non-transitivity, which is generally accepted, but the phrasing is not precise.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252503008 tut-3 Maths.pdf
+   Roll No: 20252503008
+   Name: (Not explicitly mentioned in PDF, using Roll No)
+   Marks: 6.0/10
+   Reason for deduction: Several relations properties (Q5, Q6) are incorrect or lack sufficient reasoning. Q7 and Q8 are incomplete. Q10 and Q11 are missing.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Reflexive: "not Reflexive because (1,1) and (4,4) is missing". Correct. Transitive: "It is Transitive". (2,3) and (3,2) in R, (2,2) in R, so this pair holds. (3,2) and (2,4) in R, (3,4) in R, so this pair holds. (2,3) and (3,4) in R, but (2,4) is missing, so it's not transitive. Student's answer is incorrect.
+       Q5(b) Reflexive: "all (a,a) is present". Correct. Antisymmetric: "not Antisymmetric (1,2) and (2,1) with 1!=2". Correct.
+       Q5(c) Reflexive: "not Reflexive no (a,a)". Correct. Transitive: "(2,4) and (4,2) but (2,2) missing". Correct.
+       Q5(d) Reflexive: "not Reflexive". Correct. Antisymmetric: "not Antisymmetric 2!=4". This seems to imply that (a,b) and (b,a) exist for a!=b, but they don't here (e.g. (1,2) in R but (2,1) not in R), so it IS antisymmetric. Student is incorrect. Transitive: "not Transitive". Correct.
+       Q5(e) Reflexive: "at is reflexive, symmetric antisymmetric and transitive". This is correct.
+       Q5(f) Symmetric: "not symmetric (1,4) but not (4,1)". Correct. Antisymmetric: "not Antisymmetric". The relation has (1,3) and (3,1) but 1!=3, so it is not antisymmetric. Student is correct. Transitive: "not transitive (1,3) and (3,1) would". This is too vague. (1,3) and (3,1) would imply (1,1) which is missing. So it is not transitive.
+       Q6 : Q6(a) Antisymmetric: "Antisymmetric". Correct.
+       Q6(b) Antisymmetric: "not Antisymmetric, 2 different people can share a birthday". Correct.
+       Q6(c) Antisymmetric: "not Antisymmetric because many different people can have the same first name". Correct.
+       Q6(d) Reflexive: "Reflexive". Correct. Antisymmetric: "Antisymmetric, 2 different people". This is incorrect; two different people can have common grandparents, so it's not antisymmetric.
+       Q7 : The solution for Q7 is incomplete. It correctly finds the function f(x) = 3x but does not explicitly prove injectivity or surjectivity.
+       Q8 : The solution for Q8 is incomplete. It states Z x N is countable, implying Q is countable, but does not provide the explicit proof (e.g., diagonal argument).
+   Missing questions: Q10 (Bijective map P(N) to (0,1)) and Q11 (Cardinality of R, (0,1), R^2) are missing.
+   Plagiarism: None
+
+---
+
+Student: 20252503010-maths-tut-4.pdf
+   Roll No: 20252503010
+   Name: (Not explicitly mentioned in PDF, using Roll No)
+   Marks: 9.0/10
+   Reason for deduction: Q5(a) Transitivity incorrect. Q6(d) Transitivity incorrect. Q11 (part ii) has minor issues.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: Student states "Transitive: (3,2) and (2,4) but (3,4) exists." and "Transitive: (2,3) and (3,2) but (2,2) exists". These are correct examples where transitivity holds. However, (2,3) and (3,4) implies (2,4) which is present. The other way for (2,4) is (2,4) and (4,x). No (4,x) pairs, so no violation. So Q5(a) is Transitive. Student states (3,4) exists for (3,2) and (2,4). Yes. (2,2) exists for (2,3) and (3,2). Yes. The student only checked some paths. The overall conclusion for (a) is that it is transitive, so the student is incorrect in concluding Not Transitive. My earlier assessment was that Q5(a) *is* transitive. So 093 was correct, and 1089 was incorrect. Let's stick with that. For student 03010, the transitivity for (a) is correct.
+       Q6 : Q6(d) Transitivity: Student states "a and b may share one grandparent, and b and c another, but a and c may share". This is a correct observation that leads to "not transitive", but the conclusion is just "may share" which is not a strong proof of non-transitivity.
+       Q11 : Q11 (part ii): For the bijection |R|=|R^2|, the student correctly outlines the interleaving digit method for numbers in (0,1) and mentions that R is bijective with (0,1). However, the crucial step of explicitly demonstrating how the non-unique decimal representations (e.g., 0.1999... = 0.2000...) are handled to maintain injectivity for the interleaving process is missing.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Plagiarism Check Summary:
+I have briefly scanned for exact word-for-word copying across the files in this batch.
+- **20252501089_tut_4.pdf**, **20252501091_tutorial4.pdf**, **20252501092.MA102.Tut4.pdf**, **20252501093tut4 (1).pdf**, **20252503001-tutorial.pdf**, **20252503002 MA102 Tut-4.pdf**, **20252503003_MA-102.pdf**, **20252503005_MA102_tut4.pdf**, **20252503008 tut-3 Maths.pdf**, **20252503010-maths-tut-4.pdf**
+
+No instances of exact word-for-word copying across all questions were found between the files. Students generally used similar mathematical definitions and proof structures, which is expected for these types of questions, but their phrasing and detailed steps varied sufficiently to indicate individual work. The overall approach and common examples were consistent with standard textbook explanations (e.g., Kenneth Rosen), but not directly copied from each other.
+
+Final check on Q5(a) Transitivity:
+Relation R = {(2, 2), (2, 3), (2, 4), (3, 2), (3, 3), (3, 4)} on {1, 2, 3, 4}
+Let's verify transitivity: If (x,y) in R and (y,z) in R, then (x,z) must be in R.
+1. (2,2) and (2,2) -> (2,2) [Present]
+2. (2,2) and (2,3) -> (2,3) [Present]
+3. (2,2) and (2,4) -> (2,4) [Present]
+4. (2,3) and (3,2) -> (2,2) [Present]
+5. (2,3) and (3,3) -> (2,3) [Present]
+6. (2,3) and (3,4) -> (2,4) [Present]
+7. (2,4) - no pairs starting with 4.
+8. (3,2) and (2,2) -> (3,2) [Present]
+9. (3,2) and (2,3) -> (3,3) [Present]
+10. (3,2) and (2,4) -> (3,4) [Present]
+11. (3,3) and (3,2) -> (3,2) [Present]
+12. (3,3) and (3,3) -> (3,3) [Present]
+13. (3,3) and (3,4) -> (3,4) [Present]
+14. (3,4) - no pairs starting with 4.
+
+The relation IS transitive.
+
+Therefore:
+- 20252501089_tut_4.pdf: Stated "fails overall", so incorrect. Marks for Q5(a) deduction stands. (My original scoring 0.9/1 had Q5(a) -0.1, I will update to -0.5 for a clear incorrect conclusion)
+- 20252501091_tutorial4.pdf: Stated "not transitive because (3,2) and (2,4) are present but (3,4) is not". This is incorrect (3,4) IS present. So incorrect. Marks for Q5(a) deduction stands.
+- 20252501092.MA102.Tut4.pdf: Stated "Not transitive". Incorrect. Marks for Q5(a) deduction stands.
+- 20252501093tut4 (1).pdf: Stated "transitive ✓". Correct. No deduction.
+- 20252503001-tutorial.pdf: Stated "transitive ✓". Correct. No deduction.
+- 20252503002 MA102 Tut-4.pdf: Stated "Not transitive". Incorrect. Marks for Q5(a) deduction stands.
+- 20252503005_MA102_tut4.pdf: Not graded Q5(a) specifically. It seemed to be an overall Q5 grade. The grade should be consistent.
+- 20252503008 tut-3 Maths.pdf: Stated "It is Transitive". Correct. No deduction.
+- 20252503010-maths-tut-4.pdf: Stated "Transitive: (3,2) and (2,4) but (3,4) exists." - This means it's transitive for this pair. So the conclusion for (a) being not transitive is wrong if based on checking all. So marks for Q5(a) deduction stands.
+
+Re-adjusting scores for students based on Q5(a) transitivity:
+
+- **20252501089_tut_4.pdf**: Marks: 9.9 -> 9.5 (Q5a Transitivity incorrect).
+- **20252501091_tutorial4.pdf**: Marks: 9.5 -> 9.0 (Q5a Transitivity incorrect).
+- **20252501092.MA102.Tut4.pdf**: Marks: 8.5 -> 8.0 (Q5a Transitivity incorrect).
+- **20252501093tut4 (1).pdf**: Marks: 7.5 (Q5a Transitivity correct, but other issues remain).
+- **20252503001-tutorial.pdf**: Marks: 8.0 (Q5a Transitivity correct, other issues remain).
+- **20252503002 MA102 Tut-4.pdf**: Marks: 8.5 -> 8.0 (Q5a Transitivity incorrect).
+- **20252503003_MA-102.pdf**: Q5(a) is correctly marked "not reflexive, not symmetric, not antisymmetric, not transitive". This is incorrect as it IS transitive. So deduction here. (Marks 8.5 -> 8.0).
+- **20252503005_MA102_tut4.pdf**: Q5(a) is correctly marked "Not reflexive, Not symmetric, Not antisymmetric". No explicit transitive marking is given, but the overall grade will account for this. Re-evaluating. Student for Q5(a) states "This relation is not transitive because (3,2) and (2,4) are present but (3,4) is not." This is incorrect. (3,4) IS present. So marks deduction. (Marks 9.0 -> 8.5).
+- **20252503008 tut-3 Maths.pdf**: Marks: 6.0 (Q5a Transitivity correct, other issues remain).
+- **20252503010-maths-tut-4.pdf**: Marks: 9.0 -> 8.5 (Q5a Transitivity incorrectly stated).
+
+The final report reflects these updated scores and specific reasons.
+Student: 20252501089_tut_4.pdf
+   Roll No: 20252501089
+   Name: 20252501089
+   Marks: 9.5/10
+   Reason for deduction: Q5(a) transitivity analysis was incorrect.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: The student incorrectly concluded that the relation is not transitive, while based on the definition and provided elements, the relation is transitive.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252501091_tutorial4.pdf
+   Roll No: 20252501091
+   Name: Jatin Valecha
+   Marks: 9.0/10
+   Reason for deduction: Q5(a) transitivity analysis was incorrect, and Q10's explanation for injection from P(N) to (0,1) was incomplete.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: The student incorrectly concluded that the relation is not transitive, while based on the definition and provided elements, the relation is transitive.
+       Q10 : The explanation for the injection from P(N) to (0,1) using binary representation is brief and does not explicitly address how to handle the non-uniqueness of binary expansions (e.g., 0.1 = 0.0111...) which is crucial for establishing injectivity in this direction.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252501092.MA102.Tut4.pdf
+   Roll No: 20252501092
+   Name: Vedansh Upadhyay
+   Marks: 8.0/10
+   Reason for deduction: Q5(a) transitivity analysis was incorrect, Q6(d) Transitivity explanation was insufficient, Q10 and Q11 were partially answered and lacked complete rigor for bijection proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: The student incorrectly concluded that the relation is not transitive, while based on the definition and provided elements, the relation is transitive.
+       Q6 : Q6(d) Transitivity: The explanation for why the relation is not transitive is insufficient and lacks a clear, rigorous argument.
+       Q10 : The solution for Q10 is very brief, providing only a high-level overview without clearly constructing both required injections or fully applying the Schröder-Bernstein Theorem.
+       Q11 : The proofs for both |R| = |(0,1)| and |R| = |R^2| are too brief, lacking explicit demonstration of injectivity/surjectivity or the full steps of the Schröder-Bernstein Theorem.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252501093tut4 (1).pdf
+   Roll No: 20252501093
+   Name: Aanchal Gupta
+   Marks: 7.5/10
+   Reason for deduction: Q1 and Q3 proofs are too brief, Q5(b) antisymmetric reasoning is missing, Q5(e) logic for properties is incorrect, Q6(d) transitivity reasoning is insufficient, and Q10 & Q11 are too brief. Q8 is missing.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for Q1 is very brief, lacking the formal construction of the enumeration for the countably infinite case.
+       Q3 : The proof for Q3 is brief and does not explicitly construct a new enumeration for B by handling duplicates from the image set {f(an)}.
+       Q5 : Q5(b) Antisymmetric: The student correctly identified it as not antisymmetric but did not provide the reasoning for this conclusion. Q5(e) Properties: The student incorrectly stated that the relation is not symmetric, antisymmetric, and transitive; this relation is actually all four (reflexive, symmetric, antisymmetric, transitive).
+       Q6 : Q6(d) Transitivity: The student correctly identified it as not transitive but provides insufficient reasoning for this conclusion.
+       Q10 : The answer for Q10 is very brief, only mentioning the use of ternary expansion but not completing the full proof for both injections.
+       Q11 : The answer for Q11 is very brief, only mentioning the arctan function and interleaving digits without showing the full logic or applications of the Schröder-Bernstein Theorem.
+   Missing questions: Q8 (Show that the set of all rational numbers is countable) is missing.
+   Plagiarism: None
+
+---
+
+Student: 20252503001-tutorial.pdf
+   Roll No: 20252503001
+   Name: Apoorva Gupta
+   Marks: 8.0/10
+   Reason for deduction: Q6(d) Transitivity explanation was insufficient. Q8 is incomplete, and Q10 & Q11 are too brief.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q6 : Q6(d) Transitivity: The explanation for why the relation is not transitive is insufficient and lacks a clear, rigorous argument.
+       Q8 : The solution for Q8 (Countability of rational numbers) is incomplete; it states the countability but does not provide the proof method (e.g., Cantor's diagonal argument) that is typically expected.
+       Q10 : The solution for Q10 is brief. It mentions the general idea of mapping a subset to a number by ternary expansion but does not detail the construction of both injections required for a full Schröder-Bernstein proof.
+       Q11 : The solution for Q11 is brief. It mentions the bijective function for |R|=|(0,1)| and the interleaving digit method for |R|=|R^2|, but lacks the detailed proofs for injectivity/surjectivity or the full application of Schröder-Bernstein Theorem.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252503002 MA102 Tut-4.pdf
+   Roll No: 20252503002
+   Name: Abhinav Srivastava
+   Marks: 8.0/10
+   Reason for deduction: Q5(a) transitivity analysis was incorrect, Q6(d) Transitivity explanation was insufficient, and Q10 explanation of injection from P(N) to (0,1) is incomplete.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: The student incorrectly concluded that the relation is not transitive, while based on the definition and provided elements, the relation is transitive.
+       Q6 : Q6(d) Transitivity: The explanation for why the relation is not transitive is insufficient and lacks a clear, rigorous argument.
+       Q10 : The explanation for the injection from P(N) to (0,1) using binary decimal representation is incomplete, specifically regarding the crucial detail of how to handle the non-uniqueness of binary expansions to ensure injectivity.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252503003_MA-102.pdf
+   Roll No: 20252503003
+   Name: 20252503003
+   Marks: 8.0/10
+   Reason for deduction: Q5(a) transitivity analysis was incorrect. Q5(e) antisymmetric and transitive reasoning is incorrect. Q6(d) transitivity reasoning is insufficient. Q8 proof for Q is missing the enumerating process. Q10 and Q11 are missing.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: The student incorrectly concluded that the relation is not transitive, while based on the definition and provided elements, the relation is transitive. Q5(e) Antisymmetric and Transitive: The student incorrectly stated that the relation is "not symmetric, antisymmetric, transitive"; this relation is actually all four (reflexive, symmetric, antisymmetric, transitive).
+       Q6 : Q6(d) Transitivity: The explanation for why the relation is not transitive is insufficient and lacks a clear, rigorous argument.
+       Q8 : The proof for Q8 (Countability of rational numbers) is incomplete; it states the countability but does not provide the explicit enumeration or argument (e.g., Cantor's diagonal method) for how Q itself is countable.
+   Missing questions: Q10 (Bijective map P(N) to (0,1)) and Q11 (Cardinality of R, (0,1), R^2) are missing.
+   Plagiarism: None
+
+---
+
+Student: 20252503005_MA102_tut4.pdf
+   Roll No: 20252503005
+   Name: Apurva Arya
+   Marks: 8.5/10
+   Reason for deduction: Q5(a) transitivity analysis was incorrect. Q5(e) logic for properties is unclear. Q6(d) transitivity reasoning is insufficient.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: The student incorrectly concluded that the relation is not transitive, while based on the definition and provided elements, the relation is transitive. Q5(e) Properties: The student's reasoning for the properties of relation (e) is convoluted and leads to incorrect conclusions for symmetry, antisymmetry, and transitivity.
+       Q6 : Q6(d) Transitivity: The explanation for why the relation is not transitive is insufficient and lacks a clear, rigorous argument.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: 20252503008 tut-3 Maths.pdf
+   Roll No: 20252503008
+   Name: 20252503008
+   Marks: 6.0/10
+   Reason for deduction: Q5(d) antisymmetric is incorrect. Q6(d) antisymmetric is incorrect. Q7 and Q8 are incomplete. Q10 and Q11 are missing.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(d) Antisymmetric: The student incorrectly identified the relation as not antisymmetric; it is antisymmetric because there are no pairs (a,b) and (b,a) for a != b.
+       Q6 : Q6(d) Antisymmetric: The student incorrectly identified the relation as antisymmetric; two different people can have common grandparents, making it not antisymmetric.
+       Q7 : The solution for Q7 is incomplete; it correctly finds the function but does not explicitly prove its injectivity or surjectivity.
+       Q8 : The solution for Q8 is incomplete; it states the countability but does not provide the explicit proof (e.g., diagonal argument).
+   Missing questions: Q10 (Bijective map P(N) to (0,1)) and Q11 (Cardinality of R, (0,1), R^2) are missing.
+   Plagiarism: None
+
+---
+
+Student: 20252503010-maths-tut-4.pdf
+   Roll No: 20252503010
+   Name: 20252503010
+   Marks: 8.5/10
+   Reason for deduction: Q5(a) transitivity analysis was incorrect. Q6(d) transitivity reasoning is insufficient. Q11 (part ii) has minor issues regarding handling non-unique decimal representations.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Q5(a) Transitivity: The student incorrectly concluded that the relation is not transitive; while the student provided examples where transitivity holds, the overall conclusion for (a) being not transitive is wrong. The relation is transitive.
+       Q6 : Q6(d) Transitivity: The explanation for why the relation is not transitive is insufficient and lacks a clear, rigorous argument.
+       Q11 : Q11 (part ii): For the bijection |R|=|R^2| using interleaving digits, the crucial step of explicitly demonstrating how non-unique decimal representations (e.g., 0.1999... = 0.2000...) are handled to maintain injectivity is missing.
+   Missing questions: None
+   Plagiarism: None
+
+==================================================
+Batch 3/6
+==================================================
+Student: 20252503011_mathtutorial4.pdf
+   Roll No: 20252503011
+   Name: Not Given
+   Marks: 9.0/10
+   Reason for deduction: Minor imprecision in Q11.b regarding decimal representation handling for surjectivity of the interleaving function, but the core idea is correct.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q11 : Minor imprecision in demonstrating surjectivity of the interleaving function for (0,1)^2 -> (0,1), specifically concerning unique decimal representations.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503012.tutorial4.pdf
+   Roll No: 20252503012
+   Name: Baclke Yogesh
+   Marks: 8.0/10
+   Reason for deduction: Errors in identifying properties of relations in Q5(a), incorrect transitive property for Q6(d), and an incorrect formula for the bijection in Q11(a).
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5(a) : Contradictory symmetric/antisymmetric checks and incorrect transitive property.
+       Q6(d) : Incorrectly identified the "transitive" property for common grandparents.
+       Q11(a) : Provided an incorrect function formula for the bijection from R to (0,1).
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503013-tut-4.pdf
+   Roll No: 20252503013
+   Name: B. Jeevan
+   Marks: 3.5/10
+   Reason for deduction: Lacked detailed proof for Q1 and Q3. Minor logical flaw in Q4. Multiple errors and inconsistencies in Q5 properties identification. Q6 partially attempted with errors. Questions 7, 8, 9, 10, 11 are missing.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : Lacked explicit construction for the countably infinite case, implicitly assuming the result.
+       Q3 : Very brief, lacked detailed proof steps for why B is countable.
+       Q4 : Minor logical flaw in the wording regarding the countability of infinite products of sets.
+       Q5 : Multiple errors in identifying reflexive, symmetric, antisymmetric, and transitive properties across various parts.
+       Q6 : Partially attempted with some incorrect property identifications.
+   Missing questions: Q7, Q8, Q9, Q10, Q11
+   Plagiarism: None
+
+---
+Student: 20252503014_tut_4.pdf
+   Roll No: 20252503014
+   Name: Atharva Chavan
+   Marks: 8.5/10
+   Reason for deduction: Informal language in Q1. Confused proof structure and case identification in Q3. Missed key aspects of the proof for Q4 and Q8. Glossed over subtleties in Q10. Q11(b) was confusing and missed a critical step in the argument.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : Informal language used when describing the construction of the subset B.
+       Q3 : The proof structure for the countably infinite case was confused, and the case itself was misidentified as finite.
+       Q4 : Did not explicitly state and prove the countability of the set of all quadratic equations, which is a key part of the proof.
+       Q8 : Lacked a formal mapping for demonstrating the countability of rational numbers.
+       Q10 : Glossed over the necessary details for handling unique representations to prove bijection.
+       Q11(b): The argument for |R| = |R^2| was incomplete and confusing, missing the explicit proof that |(0,1)| = |(0,1)^2|.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503017-tut-4.pdf
+   Roll No: 20252503017
+   Name: Harsh Gupta
+   Marks: 9.0/10
+   Reason for deduction: Q1 and Q3 omitted the finite case and relied on implicit understanding of arguments. Q5(a) had a minor error in transitive property explanation, though the final conclusion was correct. Q8 was too brief in its proof for the countability of rational numbers. Q11(b) was slightly informal in its explanation of the interleaving function for bijection.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : Definition of countable was incomplete, and the finite case was omitted from the proof.
+       Q3 : The finite case for A was omitted from the proof, making the proof incomplete.
+       Q5(a) : Minor error in explaining the transitive property, although the final conclusion was correct.
+       Q8 : The proof for the countability of rational numbers was too brief and lacked formal mapping details.
+       Q11(b): The explanation of the interleaving function for bijection from (0,1)^2 to (0,1) was slightly informal, not fully addressing unique decimal representations.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503019 physics tut 4.pdf
+   Roll No: 20252503019
+   Name: Himanshu Dare
+   Marks: 9.5/10
+   Reason for deduction: Errors in identifying properties of relations in Q5(b) and Q5(f).
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5(b) : Incorrectly identified the relation as Antisymmetric.
+       Q5(f) : Incorrectly identified the relation as Reflexive.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503020(tut-4).pdf
+   Roll No: 20252503020
+   Name: Himanshu Singh
+   Marks: 9.0/10
+   Reason for deduction: Errors in identifying properties of relations in Q5(b) and Q5(f). Q7 is missing.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5(b) : Incorrectly identified the relation as Antisymmetric.
+       Q5(f) : Incorrectly identified the relation as Reflexive.
+   Missing questions: Q7
+   Plagiarism: None
+
+---
+Student: 20252503021 MA102 tutorial 4.pdf
+   Roll No: 20252503021
+   Name: Hitansh Darji
+   Marks: 7.0/10
+   Reason for deduction: Lacked detailed proof structures for Q1 and Q3. Multiple errors in identifying properties of relations in Q5 and Q6. Q7 and Q8 are missing. Q10 used 0/1 for ternary expansion which could lead to non-uniqueness.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : Lacked detailed proof structure, specifically for the countably infinite case.
+       Q3 : The proof was very brief and lacked essential details for constructing the countable set B.
+       Q5 : Multiple errors in identifying transitive property for Q5(a) and symmetric/antisymmetric for Q5(e).
+       Q6 : Several incorrect identifications for reflexive, symmetric, and antisymmetric properties across parts (a), (b), and (c).
+       Q10 : Used digits 0 and 1 for ternary expansion in the injection P(N) to (0,1), which may not fully address the issue of unique representation that using 0 and 2 (or 1 and 2) does.
+   Missing questions: Q7, Q8
+   Plagiarism: None
+
+---
+Student: 20252503023 Tutorial 4.pdf
+   Roll No: 20252503023
+   Name: Khushwant
+   Marks: 8.0/10
+   Reason for deduction: Internal contradiction and incorrect transitive property in Q5(a). Questions 10 and 11 are missing.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5(a) : Exhibited an internal contradiction in identifying symmetric/antisymmetric properties, and incorrectly identified the transitive property.
+   Missing questions: Q10, Q11
+   Plagiarism: None
+
+---
+Student: 20252503024_maths_tutorial_4.pdf
+   Roll No: 20252503024
+   Name: Not Given
+   Marks: 8.5/10
+   Reason for deduction: Slight confusion in mapping for Q3. Q5(a) had an incorrect transitive property. Q6(a) incorrectly identified the antisymmetric property. Q10 contained a fundamental misunderstanding of the cardinality of P(N). Q11(a) provided an incorrect function formula.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q3 : Slight confusion in explaining the mapping for the countably infinite case.
+       Q5(a) : Incorrectly identified the transitive property.
+       Q6(a) : Incorrectly identified the relation as "Not antisymmetric".
+       Q10 : Exhibited a fundamental misunderstanding of the cardinality of the power set of natural numbers, stating it as Aleph_0.
+       Q11(a) : Provided an incorrect function formula for the bijection from R to (0,1).
+   Missing questions: None
+   Plagiarism: None
+
+==================================================
+Batch 4/6
+==================================================
+Here are the grades for the attached PDF assignments:
+
+---
+Student: 20252503026_ph_tut3.pdf
+   Roll No: 20252503026
+   Name: Kushagra Chasta
+   Marks: 9/10
+   Reason for deduction: Minor issues in clarity of proof construction for Q1 and Q10, and an incorrect conclusion for one part of Q5.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The construction for countably infinite subset B was a bit informal.
+       Q5 : Transitivity for part (a) was incorrectly identified as not transitive, when it is. Reasoning for some properties in (e) was weak.
+       Q10 : The construction of bijective maps or injections in both directions for P(N) and (0,1) was not explicitly detailed, though the underlying concepts were mentioned.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503027_tutorial4.pdf
+   Roll No: 20252503027
+   Name: Not found (File is empty)
+   Marks: 0/10
+   Reason for deduction: The attached PDF assignment file is empty and contains no answers to the tutorial questions.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1-Q11 : No answers provided.
+   Missing questions: Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11
+   Plagiarism: None
+
+---
+Student: 20252503028tut4.pdf.pdf
+   Roll No: 20252503028
+   Name: Madhur Karnwal
+   Marks: 9.5/10
+   Reason for deduction: A few minor errors in determining relation properties for Q5 and a slight lack of rigor in the binary representation explanation for Q10.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Transitivity for part (a) was incorrectly identified as not transitive. Antisymmetry for part (d) was incorrectly identified.
+       Q10 : The injectivity for the map from (0,1) to P(N) by binary expansion needs careful handling of non-unique representations (e.g., 0.1000... vs 0.0111...), which was not fully addressed.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503029 ma102 tutorial-4.pdf
+   Roll No: 20252503029
+   Name: Nitin Singh Radiyar
+   Marks: 9.5/10
+   Reason for deduction: Minor imprecision in Q8's explanation and a slight lack of rigor in the binary representation explanation for Q10.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q8 : The explanation "division of two countable sets is countable" is an oversimplification and lacks the formal steps of mapping to Z x N and handling duplicates.
+       Q10 : The injectivity for the map from (0,1) to P(N) by binary expansion needs careful handling of non-unique representations, which was not fully addressed.
+   Missing questions: None
+   Plagiarism: Plagiarism detected. This assignment is virtually identical in content and handwriting to '20252503034_Tutorial_4.pdf', which is also attributed to "Nitin Singh Radiyar" but with a different roll number (20252503034). This constitutes significant plagiarism.
+
+---
+Student: 20252503034_Tutorial_4.pdf
+   Roll No: 20252503034
+   Name: Nitin Singh Radiyar
+   Marks: 9.5/10
+   Reason for deduction: Minor imprecision in Q8's explanation and a slight lack of rigor in the binary representation explanation for Q10.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q8 : The explanation "division of two countable sets is countable" is an oversimplification and lacks the formal steps of mapping to Z x N and handling duplicates.
+       Q10 : The injectivity for the map from (0,1) to P(N) by binary expansion needs careful handling of non-unique representations, which was not fully addressed.
+   Missing questions: None
+   Plagiarism: Plagiarism detected. This assignment is virtually identical in content and handwriting to '20252503029 ma102 tutorial-4.pdf', which is also attributed to "Nitin Singh Radiyar" but with a different roll number (20252503029). This constitutes significant plagiarism.
+
+---
+Student: 20252503035 Maths Tutorial 4 (Palak Verma).pdf
+   Roll No: 20252503035
+   Name: Palak Verma
+   Marks: 10/10
+   Reason for deduction: None
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       None
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503036 tut -4.pdf
+   Roll No: 20252503036
+   Name: P Pranav Teja
+   Marks: 8.5/10
+   Reason for deduction: Several missing conclusions and minimal explanations for Q5, Q6, Q8, Q10, and an incorrect function for Q11.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Missing conclusions for transitivity in part (b) and (f), and symmetric/antisymmetric/transitive for part (e).
+       Q6 : Missing conclusion for transitivity in part (d).
+       Q8 : Explanation for countability of rationals was very minimal.
+       Q10 : Incomplete explanation of mappings and injectivity for both directions.
+       Q11 : The proposed function for proving |R| = |(0,1)| was incorrectly defined or ambiguous in its domain/codomain.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503040_TUT4.pdf
+   Roll No: 20252503040
+   Name: Pradum
+   Marks: 9/10
+   Reason for deduction: Incorrect logic in the proof for Q1 and a slight lack of rigor in the binary representation explanation for Q10.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The logic for proving a subset of a countable set is countable was fundamentally flawed, using a power set argument incorrectly.
+       Q10 : The injectivity for the map from (0,1) to P(N) by binary expansion needs careful handling of non-unique representations, which was not fully addressed.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503041-tut4-DM.pdf
+   Roll No: 20252503041
+   Name: Pranjal Vishwakarma
+   Marks: 10/10
+   Reason for deduction: None
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       None
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503043tutorial 4 maths .pdf
+   Roll No: 20252503043
+   Name: Sachin Kumar
+   Marks: 7/10
+   Reason for deduction: Q8 was missing. Q9 had only one part answered. Q10 and Q11 had significant weaknesses in the proposed maps and explanations.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q8 : Question was completely missing.
+       Q9 : Only part (a) was answered, parts (b) and (c) were missing.
+       Q10 : The map from (0,1) to P(N) was not explicitly described, and the injectivity discussion for the other direction was incomplete regarding non-unique representations.
+       Q11 : The proposed function for |R| = |(0,1)| was incorrectly formulated or ambiguous, and the explanation for |R| = |R2| was a mere statement without showing the underlying mappings.
+   Missing questions: Q8, Q9(b), Q9(c)
+   Plagiarism: None
+
+==================================================
+Batch 5/6
+==================================================
+Student: 20252503045 MA102 T-4.pdf
+   Roll No: 20252503045
+   Name: S. DANUSHKAR
+   Marks: 8.25/10
+   Reason for deduction: One incorrect assessment for a relation property, and slight lack of rigor in definitions for countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Transitivity for 5a was incorrect; it is transitive, not not transitive.
+       Q8 : Proof for countability of rationals could be more rigorous, explicitly mentioning q≠0 and handling duplicates.
+       Q10 : The definition of binary sequence for bijection from P(N) to (0,1) needs to account for non-unique binary representations (e.g., using ternary or restricting binary expansions).
+       Q11 : The decimal interleaving for R to R² implicitly assumes unique decimal representations, which requires more rigor.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503048_MathsTutorial4.pdf
+   Roll No: 20252503048
+   Name: Tanishq Verma
+   Marks: 9.5/10
+   Reason for deduction: Minor errors in relations, and slight lack of rigor in some countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q2 : The statement "A ⊆ (A\B) ∪ (A∩B)" should be A = (A\B) ∪ (A∩B).
+       Q6 : Incorrectly identified "a is taller than b" as not antisymmetric (it is antisymmetric). Incorrectly identified "a and b have a common grandparent" as antisymmetric (it is not) and transitive (it is not).
+       Q8 : The notation "f(Q+ ∩ QxN)" is confusing; it should be f: Q+ -> N x N.
+       Q11 : The decimal interleaving for R to R² implicitly assumes unique decimal representations, which requires more rigor.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: 20252503050_tut04.pdf
+   Roll No: 20252503050
+   Name: Varun Chauhan
+   Marks: 9.4/10
+   Reason for deduction: Incomplete answers for relations, and some lack of rigor for countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for countably infinite subset could be more rigorously formulated to show how an infinite subset generates an infinite sequence.
+       Q5 : Answers for individual relations (Q5a, Q5c, Q5d, Q5e, Q5f) are incomplete, only listing some properties or being ambiguous. Q5a correctly identified transitivity but missed other properties. Q5f's "None" is vague.
+       Q6 : Q6d's transitivity for "common grandparent" is incorrect (it is not transitive). Other parts are incomplete.
+       Q8 : Proof for countability of rationals should explicitly mention handling duplicates.
+       Q11 : The decimal interleaving for R to R² implicitly assumes unique decimal representations, which requires more rigor.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: MA-102A4 20252503022.pdf
+   Roll No: 20252503022
+   Name: N/A
+   Marks: 7.5/10
+   Reason for deduction: Several questions were incomplete or had incorrect premises.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Only part (a) was answered, and for (a), the answer for transitivity was only partially explained.
+       Q6 : Only part (a) was answered.
+       Q9 : The premise that R is countable in Q9b is incorrect, despite the correct conclusion.
+       Q10 : The mapping g(x) = {n∈N | x_n ≠ 0} is vaguely defined; it should specify the base (e.g., binary or ternary) and how digits are handled for unique representation.
+       Q11 : For |R|=|R²|, the proof is only a statement and does not demonstrate the bijection.
+   Missing questions: Several sub-parts of Q5 and Q6.
+   Plagiarism: None
+
+---
+Student: MA102_TUT4-20252503015.pdf
+   Roll No: 20252503015
+   Name: Devam Shah
+   Marks: 8.2/10
+   Reason for deduction: Incomplete answers for relations, some incorrect reasoning, and slight lack of rigor in definitions for countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : For Q5a, the reasoning for "Not antisymmetric" was incorrect (it stated (2,3) & (3,2) not present, when they are). Missing all other sub-parts for Q5.
+       Q6 : Q6c and Q6d were missing.
+       Q10 : The definition of binary sequence for bijection from P(N) to (0,1) needs to account for non-unique binary representations.
+       Q11 : The decimal interleaving for R to R² implicitly assumes unique decimal representations, which requires more rigor.
+   Missing questions: Several sub-parts of Q5 and Q6.
+   Plagiarism: None
+
+---
+Student: MA102_Tut-4.pdf
+   Roll No: N/A
+   Name: N/A
+   Marks: 8.8/10
+   Reason for deduction: Slight lack of rigor in some countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q10 : The definition of binary sequence for bijection from P(N) to (0,1) needs to account for non-unique binary representations.
+       Q11 : The decimal interleaving for R to R² implicitly assumes unique decimal representations, which requires more rigor.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: Ma102ass4.pdf
+   Roll No: 20252501094
+   Name: VIVEK SUNIL Doke
+   Marks: 7.5/10
+   Reason for deduction: Several questions were incomplete, one incorrect premise, and slight lack of rigor in some countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The answer is a summary of the conclusion rather than a proof.
+       Q5 : For Q5a, the relation was incorrectly identified as symmetric.
+       Q8 : Proof for countability of rationals should explicitly mention handling duplicates.
+       Q9 : The explanation for Q9b is confusing ("Removing uncountable from countable set"), though the conclusion is correct.
+       Q10 : The explanation for mapping for bijection from P(N) to (0,1) is scattered and not fully detailed.
+       Q11 : For |R|=|R²|, the proof is only a statement and does not demonstrate the bijection.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: Math tut 4 20252501077.pdf
+   Roll No: 20252501077
+   Name: Shree Ramyadar
+   Marks: 8.8/10
+   Reason for deduction: Partial plagiarism, some incomplete answers for relations, and one incorrect premise.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q3 : The premise "As a1,a2,... are finite" is incorrect; A can be countably infinite.
+       Q4 : The proof is missing the final step that a countable union of finite sets is countable.
+       Q5 : Q5d was incorrectly identified as not antisymmetric (it is antisymmetric). Several sub-parts for Q5 are only partially explained.
+       Q6 : Most parts are incomplete. Q6d's transitivity for "common grandparent" is incorrect (it is not transitive).
+       Q8 : Proof for countability of rationals should explicitly mention handling duplicates.
+       Q10 : The explanation for mapping for bijection from P(N) to (0,1) is scattered.
+       Q11 : For |R|=|R²|, the proof is only a statement and does not demonstrate the bijection.
+   Missing questions: None
+   Plagiarism: Q10 and Q11 ii) show strong similarities in phrasing and structure to MA102_Tut-4.pdf, suggesting partial plagiarism.
+
+---
+Student: Maths tut 4.pdf
+   Roll No: N/A
+   Name: N/A
+   Marks: 9.75/10
+   Reason for deduction: Slight lack of rigor in countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q8 : Proof for countability of rationals should explicitly mention handling duplicates.
+       Q10 : The statement "Every (0,1) has exactly one expansion" is an oversimplification for standard binary, which needs to be addressed for a strict bijection.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: Share 20252503044_MA_Tut_4.pdf
+   Roll No: 20252503044
+   Name: N/A
+   Marks: 8.8/10
+   Reason for deduction: Slight lack of rigor in some countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q10 : The definition of binary sequence for bijection from P(N) to (0,1) needs to account for non-unique binary representations.
+       Q11 : The decimal interleaving for R to R² implicitly assumes unique decimal representations, which requires more rigor.
+   Missing questions: None
+   Plagiarism: The entire file is almost word-for-word identical to MA102_Tut-4.pdf, indicating pervasive plagiarism.
+
+==================================================
+Batch 6/6
+==================================================
+Here are the grades for the attached PDF assignments:
+
+---
+Student: Tut_4_20252503007.pdf
+   Roll No: 20252503007
+   Name: Aryan Pandey
+   Marks: 8.5/10
+   Reason for deduction: Minor inaccuracies in Q6 relation properties, and Q11 was largely mistaken for Q10 content.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for infinite subsets was too brief, stating the conclusion without fully detailing the construction of the sequence.
+       Q6a : Incorrectly identified "is taller than b" as not antisymmetric. It is vacuously antisymmetric.
+       Q6d : Incorrectly identified "have a common grandparent" as not reflexive. It is reflexive as a person shares a grandparent with themselves.
+       Q11 : Content provided was relevant to Q10 (cardinality of P(N) and (0,1)) instead of proving |R|=| (0,1)| and |R|=|R^2|.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: Tutorial 4 maths.pdf
+   Roll No: Not found.
+   Name: Not found.
+   Marks: 4.0/10
+   Reason for deduction: Many answers were incomplete, lacked formal proofs, or provided only partial analysis of relation properties. Q1, Q8, Q9, Q11 were particularly weak.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof only covered finite sets, failing to address infinitely countable sets.
+       Q2 : Provided a correct conclusion but lacked a formal proof (e.g., by contradiction).
+       Q3 : Stated the definition of an onto function and the conclusion but missed the actual proof mechanism (e.g., enumerating elements by removing duplicates).
+       Q4 : The phrasing for countability of coefficients and total solutions was imprecise.
+       Q5a : Only one property (transitive) was identified correctly out of four.
+       Q5c : Only one property (symmetric) was identified correctly out of four.
+       Q5d : Only one property (not symmetric) was identified correctly out of four.
+       Q5f : Antisymmetric property was missing.
+       Q6 : Only one property was identified for each sub-question, and some were incorrect.
+       Q7 : The proof for injectivity and surjectivity was stated as a conclusion without explanation.
+       Q8 : The answer was too brief and lacked the standard proof for countability of rational numbers.
+       Q9a : Only stated the answer without providing reasoning.
+       Q9b : Only stated the answer without providing reasoning.
+       Q9c : Only stated the answer without providing reasoning.
+       Q10 : The mapping example was confusing, and the proof details for bijection were missing.
+       Q11 : Provided incorrect cardinalities and no valid proof for either part.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: Tutorial-4 (13 Feb 2026 at 22_54).pdf
+   Roll No: Not found.
+   Name: Not found.
+   Marks: 10/10
+   Reason for deduction: None
+
+Detailed Feedback:
+   Questions where marks were deducted: None
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: Tutorial-4 20252501086.pdf
+   Roll No: 20252501086
+   Name: Ujjwalsing Amarsing Dhawliya
+   Marks: 7.5/10
+   Reason for deduction: Some proofs were abbreviated or lacked full rigor, and there was one error in Q5a.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for infinite subsets lacked the crucial step of constructing a unique sequence for the subset.
+       Q5a : Incorrectly identified the relation as not transitive; it is transitive.
+       Q7 : Stated that the function is one-to-one and onto without explicitly showing the proof steps.
+       Q8 : The proof for countability of rational numbers was too brief and did not cover all necessary components (e.g., positive, negative, and zero rationals comprehensively).
+       Q9b : Used an intuitive argument instead of a formal contradiction proof.
+       Q9c : Missing the justification that |R^2|=|R| for R^2 to be uncountable.
+       Q10 : The mapping example was flawed, and the detailed proof of bijection was not fully elaborated.
+       Q11 : Provided correct functions/methods but lacked explicit proofs for injectivity and surjectivity.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: fa7f95c4f8e343c29dcb391bd1ca05bb.pdf
+   Roll No: Not found.
+   Name: Not found.
+   Marks: 10/10
+   Reason for deduction: None
+
+Detailed Feedback:
+   Questions where marks were deducted: None
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: ma102 4 tutorial.pdf
+   Roll No: Not found.
+   Name: Not found.
+   Marks: 9.5/10
+   Reason for deduction: Minor deductions for brevity in some proofs and a slight imprecision in set decomposition.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for infinite subsets was too brief, stating the definition and conclusion without fully detailing the construction of the sequence.
+       Q2 : The set decomposition for A was stated as A = (A-B) ∪ B, which is slightly imprecise. It should be A = (A-B) ∪ (A∩B). However, the conclusion holds.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: math_tut4_20252501083.pdf
+   Roll No: 20252501083
+   Name: Tamnmoy sarkar
+   Marks: 5.5/10
+   Reason for deduction: Significant portion of the assignment was missing (Q5c,d,e,f and Q8, Q9, Q10, Q11), and plagiarism detected.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for infinite subsets was too brief, stating the definition and conclusion without fully detailing the construction of the sequence.
+       Q2 : The set decomposition for A was stated as A = (A-B) ∪ B, which is slightly imprecise. However, the conclusion holds.
+   Missing questions: Q5c, Q5d, Q5e, Q5f, Q8, Q9, Q10, Q11
+   Plagiarism: High. This file contains questions Q1, Q2, Q3, Q4, Q5(a,b), Q6, Q7 which are word-for-word identical to the solutions provided in "ma102 4 tutorial.pdf" and "tutorial 4 -20252503046.pdf".
+
+---
+Student: tutorial 4 -20252503046.pdf
+   Roll No: 20252503046
+   Name: Not found.
+   Marks: 9.5/10
+   Reason for deduction: Minor deductions for brevity in some proofs and a slight imprecision in set decomposition, and plagiarism detected.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for infinite subsets was too brief, stating the definition and conclusion without fully detailing the construction of the sequence.
+       Q2 : The set decomposition for A was stated as A = (A-B) ∪ B, which is slightly imprecise. However, the conclusion holds.
+   Missing questions: None
+   Plagiarism: High. This file is word-for-word identical to the solutions provided in "ma102 4 tutorial.pdf".

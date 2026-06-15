@@ -1,0 +1,20 @@
+# Core
+sentence-transformers==2.2.2
+transformers==4.36.2
+
+# Math / utils
+numpy==1.26.4
+scikit-learn==1.4.0
+tqdm==4.66.1
+
+# PDF handling
+pymupdf==1.23.8
+
+# Similarity search
+faiss-cpu==1.7.4
+
+# API / Environment
+python-dotenv==1.0.1
+google-generativeai
+pandas
+openpyxl

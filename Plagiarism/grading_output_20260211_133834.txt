@@ -1,0 +1,215 @@
+
+
+==================================================
+Batch 1/12
+==================================================
+Here are the grades and detailed feedback for each student's submission, following the specified criteria:
+
+---
+
+**Student: Aditya Bhandari**
+*   **Roll No:** 20252501002
+*   **Grade: 6.5/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof attempt is unclear, logically flawed, and incomplete. It uses an unusual and unsubstantiated approach. (0/1)
+    *   **Q4(a) & Q4(b) (Rearrangement Inequality):** The algebraic derivations to show the difference between sums (e.g., `(xj - xi)(yj - yi)`) contain errors in the inequality direction and variable notation, making the justification for the conclusions incorrect, even though the conclusions themselves (maximum for same order, minimum for opposite order) are correct. (0/1)
+    *   **Q7(a) (f(m,n) = 2m - n, injective):** The counterexample for injectivity (`f(2,0)=2`, `f(2,2)=2`) is incorrect because `2(2)-0 = 4` and `2(2)-2 = 2`. While the function is indeed not injective, a correct counterexample (e.g., `f(0,0)=0` and `f(1,2)=0`) was not provided. (0/1)
+    *   **Q7(c) (f(m,n)=|m|-|n|, surjective):** The conclusion that the function is not surjective is incorrect. For any integer `k`, `f(k,0)=|k|=k` if `k>=0`, and `f(0,-k)=k` for `k<0`. Thus, the function is surjective. (0/1)
+    *   **Q9 (Example for function composition):** The example provided does not satisfy the conditions. Specifically, `f ◦ g` is not a bijection as required (it is not injective in the example given, `(f ◦ g)(a)=(f ◦ g)(b)=x`). (0/1)
+    *   **Q12(b) (Tautology/Contradiction):** The truth table correctly shows all false values for the compound proposition, but the student's conclusion states it is "not a tautology" and "false for some values," failing to identify it as a contradiction. (0/1)
+*   **Missing questions:**
+    *   Q13 (Principal Disjunctive Normal Forms)
+    *   Q14 (Principal Conjunctive Normal Forms)
+    *   The student noted "Did not teach" for these questions.
+*   **Plagiarism:** **Plagiarism detected.** This submission is virtually identical to `20252501053_Aditya Bhandari.pdf` in content, structure, and most specific examples and errors.
+
+---
+
+**Student: Akshay Kumawat**
+*   **Roll No:** 20252501007
+*   **Grade: 5.5/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q1, Q2, Q3, Q4, Q6, Q9, Q10, Q11, Q12:** These questions were not attempted or are missing from the submission. (0/1 for each main question)
+    *   **Q7(b) (f(m,n)=m²-n², surjective):** The explanation for why the function is not surjective is partially unclear and contains errors in example calculations. While the conclusion (not surjective for integers) is correct, the justification is weak. (0.5/1)
+*   **Missing questions:** Q1, Q2, Q3, Q4, Q6, Q9, Q10, Q11, Q12, Q13, Q14.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Student: Kushagra Chasta**
+*   **Roll No:** 20252503026
+*   **Grade: 1.0/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q1-Q8, Q10-Q12:** These questions were not attempted or are missing from the submission. (0/1 for each main question)
+*   **Missing questions:** Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q10, Q11, Q12, Q13, Q14.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Student: Atodariya Varunsinh Manojsinh**
+*   **Roll No:** 20252501011
+*   **Grade: 10/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof is mostly correct, but it implicitly assumes the ordering (`a < (a+c)/2 < c`) without explicitly proving it, which is a minor omission. (0.75/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Student: Bhalodiya Dev**
+*   **Roll No:** 20252501013
+*   **Grade: 10/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof is mostly correct, but it implicitly assumes the ordering (`a < (a+b)/2 < b`) without explicitly proving it, which is a minor omission. (0.75/1)
+    *   **Q9 (Example for function composition):** The example provided (`g(x)=x^2`, `f(x)=sqrt(x)`) does not satisfy the conditions. Specifically, `f` is inherently one-to-one on its natural domain `[0, ∞)` and `f ◦ g (x) = |x|` is not a bijection (not injective). (0.5/1)
+    *   **Q12(b) (Tautology/Contradiction):** The truth table calculations for the final column are incorrect, leading to a wrong conclusion. (0/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Student: Unknown Student**
+*   **Roll No:** 20252501014
+*   **Grade: 10/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q7(b) (f(m,n)=m²-n², surjective):** The student correctly identifies that the function is not surjective but does not provide a formal proof or counterexample for this claim, making the justification weak. (0.5/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** **Plagiarism detected.** This submission's solution for Q3 is virtually identical, word-for-word, including a specific misspelling, to that found in `20252501075_Vaghela Rushit R.pdf`.
+
+---
+
+**Student: Chaudhary Harsh Ashokkumar**
+*   **Roll No:** 20252501016
+*   **Grade: 10/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof is mostly correct, but it implicitly assumes the ordering (`r < (r+x)/2 < x`) without explicitly proving it, which is a minor omission. (0.75/1)
+    *   **Q7(b) (f(m,n)=m²-n², surjective):** The student correctly identifies that the function is not surjective but does not provide a formal proof or counterexample for this claim, making the justification weak. (0.5/1)
+    *   **Q9 (Example for function composition):** The example provided uses `f(x) = lnx` as a function from `R` to `R`. `lnx` is typically defined on `(0, ∞)`, where it is one-to-one. The question requires `f` to be "not one-to-one", so this example does not fully meet the criteria in a standard interpretation. (0.5/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Student: Shambhavi Agrawal**
+*   **Roll No:** 20252501019
+*   **Grade: 9.5/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof is mostly correct, but it implicitly assumes the ordering (`r < (r+x)/2 < x`) without explicitly proving it, which is a minor omission. (0.75/1)
+    *   **Q7(b) (f(m,n)=m²-n², surjective):** The student correctly identifies that the function is not surjective but does not provide a formal proof or counterexample for this claim, making the justification weak. (0.5/1)
+    *   **Q9 (Example for function composition):** The example provided uses `f(x) = sqrt(x)` as a function from `[0,∞)` to `[0,∞)`. `sqrt(x)` is one-to-one on its domain. The question requires `f` to be "not one-to-one", so this example does not fully meet the criteria. (0.5/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Student: Lalit**
+*   **Roll No:** 20252501032
+*   **Grade: 9.0/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof is mostly correct, but it implicitly assumes the ordering (`r < (r+s)/2 < s`) without explicitly proving it, which is a minor omission. (0.75/1)
+    *   **Q5(a) (f(S ∪ T) = f(S) ∪ f(T)):** Only one direction of the equality proof (`f(S ∪ T) ⊆ f(S) ∪ f(T)`) is fully presented. The other direction (`f(S) ∪ f(T) ⊆ f(S ∪ T)`) is missing. (0.5/1)
+    *   **Q7(b) (f(m,n)=m²-n², surjective):** The student correctly identifies that the function is not surjective but does not provide a formal proof or counterexample for this claim, making the justification weak. (0.5/1)
+    *   **Q9 (Example for function composition):** The example provided (`g(x)=x^2`, `f(x)=sqrt(x)`) does not satisfy the conditions. Specifically, `f(x)=sqrt(x)` is one-to-one on its natural domain, and `f ◦ g (x) = |x|` is not a bijection (not injective). This fails multiple requirements. (0.5/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Student: Otaswi Srivastava**
+*   **Roll No:** 20252501047
+*   **Grade: 9.5/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof is mostly correct, but it implicitly assumes the ordering (`r < (r+i)/2 < i`) without explicitly proving it, which is a minor omission. (0.75/1)
+    *   **Q7(b) (f(m,n)=m²-n², surjective):** The student correctly identifies that the function is not surjective but does not provide a formal proof or counterexample for this claim, making the justification weak. (0.5/1)
+    *   **Q9 (Example for function composition):** The example provided uses `f(x) = lnx` as a function from `(0, ∞)` to `R`. While `g(x) = e^x` is `R` to `(0, ∞)` and `f ◦ g (x) = x` is a bijection, `f(x) = lnx` is one-to-one on its domain `(0, ∞)`. The question requires `f` to be "not one-to-one", so this example does not fully meet the criteria. (0.5/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Student: Aditya Bhandari**
+*   **Roll No:** 20252501053
+*   **Grade: 6.5/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof attempt is unclear, logically flawed, and incomplete. It uses an unusual and unsubstantiated approach. (0/1)
+    *   **Q4(a) & Q4(b) (Rearrangement Inequality):** The algebraic derivations to show the difference between sums (e.g., `(xj - xi)(yj - yi)`) contain errors in the inequality direction and variable notation, making the justification for the conclusions incorrect, even though the conclusions themselves (maximum for same order, minimum for opposite order) are correct. (0/1)
+    *   **Q7(a) (f(m,n) = 2m - n, injective):** The counterexample for injectivity (`f(2,0)=2`, `f(2,2)=2`) is incorrect because `2(2)-0 = 4` and `2(2)-2 = 2`. While the function is indeed not injective, a correct counterexample (e.g., `f(0,0)=0` and `f(1,2)=0`) was not provided. (0/1)
+    *   **Q7(c) (f(m,n)=|m|-|n|, surjective):** The conclusion that the function is not surjective is incorrect. For any integer `k`, `f(k,0)=|k|=k` if `k>=0`, and `f(0,-k)=k` for `k<0`. Thus, the function is surjective. (0/1)
+    *   **Q9 (Example for function composition):** The example provided does not satisfy the conditions. Specifically, `f ◦ g` is not a bijection as required (it is not injective in the example given, `(f ◦ g)(a)=(f ◦ g)(b)=x`). (0/1)
+    *   **Q12(b) (Tautology/Contradiction):** The truth table correctly shows all false values for the compound proposition, but the student's conclusion states it is "not a tautology" and "false for some values," failing to identify it as a contradiction. (0/1)
+*   **Missing questions:**
+    *   Q13 (Principal Disjunctive Normal Forms)
+    *   Q14 (Principal Conjunctive Normal Forms)
+    *   The student noted "Did not teach" for these questions.
+*   **Plagiarism:** **Plagiarism detected.** This submission is virtually identical to `20252501002_Aditya Bhandari.pdf` in content, structure, and most specific examples and errors.
+
+---
+
+**Student: Vaghela Rushit R.**
+*   **Roll No:** 20252501075
+*   **Grade: 10/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q7(b) (f(m,n)=m²-n², surjective):** The student correctly identifies that the function is not surjective but does not provide a formal proof or counterexample for this claim, making the justification weak. (0.5/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** **Plagiarism detected.** This submission's solution for Q3 is virtually identical, word-for-word, including a specific misspelling, to that found in `20252501014_Unknown.pdf`.
+
+---
+
+**Student: Indu Eslavath**
+*   **Roll No:** 20252501077
+*   **Grade: 0/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:** All questions from Tutorial 3 are missing.
+*   **Missing questions:** All questions (Q1 to Q14) from the requested Tutorial 3 are missing. The submission provided answers for "Tutorial-2" which has different questions.
+*   **Plagiarism:** Not applicable as the submitted content is for a different tutorial.
+
+---
+
+**Student: Suhas Madugulan**
+*   **Roll No:** 20252503029
+*   **Grade: 10/10**
+
+**Detailed Feedback:**
+*   **Questions where marks were deducted:**
+    *   **Q3 (Prove between rational and irrational):** The proof is mostly correct, but it implicitly assumes the ordering (`r < (r+i)/2 < i`) without explicitly proving it, which is a minor omission. (0.75/1)
+    *   **Q7(b) (f(m,n)=m²-n², surjective):** The student correctly identifies that the function is not surjective but does not provide a formal proof or counterexample for this claim, making the justification weak. (0.5/1)
+    *   **Q9 (Example for function composition):** The example provided uses `g(x)=x^2` and `f(x)=cos(x)`. While `g` is not onto and `f` is not one-to-one as required, `f ◦ g (x) = cos(x^2)` is neither injective nor surjective, thus not a bijection, failing a key requirement of the question. (0.5/1)
+*   **Missing questions:** None.
+*   **Plagiarism:** No plagiarism found.
+
+---
+
+**Plagiarism Summary (Word-by-word identical PDFs or exact same PDFs with different names):**
+
+*   **20252501053_Aditya Bhandari.pdf is an almost exact, word-for-word copy of 20252501002_Aditya Bhandari.pdf.** This indicates direct copying of solutions between these two submissions.
+*   **The solution for Q3 in 20252501075_Vaghela Rushit R.pdf is a word-for-word copy of the solution for Q3 in 20252501014_Unknown.pdf.** This indicates direct copying of a specific solution between these two submissions.
+*   **Indu Eslavath's** submission (`20252501077_Indu Eslavath.pdf`) was for a different tutorial, hence it is an incorrect submission rather than plagiarism of this specific tutorial.
+*   For other solutions where standard mathematical proofs or common counterexamples are used (e.g., Q2, Q5, Q10, Q11, Q12), similar logical steps and phrasing are expected and were observed across multiple submissions. These are not considered plagiarism as they do not constitute word-for-word identical reproductions beyond standard mathematical notation and idioms.
+*   For more open-ended questions like Q9 (excluding the flagged instances), students generally provided distinct examples, indicating individual work.
+
+---

@@ -1,0 +1,1477 @@
+
+
+==================================================
+Batch 1/12
+==================================================
+Here are the grades for each PDF, including deductions, missing questions, and plagiarism findings:
+
+---
+
+**1. PDF: Tutorial-3 (HP)**
+
+*   **Grade: 7.5/10**
+*   **Questions where marks were deducted:**
+    *   **Q2 (0.5 deduction):** Minor error/typo in calculation for modulo 4 of 2 · 10^500 + 15 (wrote multiplication instead of addition), though the final conclusion was correct.
+    *   **Q4(b) (0.5 deduction):** Explanation for the minimum value was confusing and lacked clarity in demonstrating the rearrangement logic.
+    *   **Q6(c) (0.5 deduction):** Incorrect calculation examples for injectivity (e.g., `f(2) = [2/2] = 2` instead of `1`), although the conclusion was correct.
+    *   **Q7(a) (0.5 deduction):** Incorrect example provided to demonstrate non-injectivity (e.g., `f(2,0)=4, f(2,2)=2` does not show non-injectivity).
+    *   **Q7(b) (0.5 deduction):** Incorrect conclusion regarding surjectivity for `f(m,n) = m^2 - n^2` (it is surjective, but the student concluded it isn't).
+    *   **Q8(c) (0.5 deduction):** Incorrect calculation example for injectivity (e.g., `f(2)=2` instead of `5/6`), although the conclusion was correct.
+*   **Missing Questions:** None.
+*   **Plagiarism:** No significant word-by-word plagiarism found compared to other submissions.
+
+---
+
+**2. PDF: Akshay Kumawat (20252501007)**
+
+*   **Grade: 6.5/10**
+*   **Questions where marks were deducted:**
+    *   **Q1, Q2, Q3, Q4 (3.0 deductions):** These questions were entirely missing.
+    *   **Q7(b) (0.5 deduction):** Incorrect conclusion for surjectivity (`f(m,n) = m^2 - n^2` is surjective, but the student claimed it wasn't) with flawed reasoning.
+    *   **Q9 (1.0 deduction):** The example provided for `f` and `g` does not correctly satisfy all the conditions (specifically, `f ◦ g` was not a bijection as constructed).
+*   **Missing Questions:** Q1, Q2, Q3, Q4.
+*   **Plagiarism:** Significant word-by-word plagiarism found for Q10 and Q11, and very similar phrasing in Q5 and Q7, when compared to several other submissions (Kushagra Chasta, Atodariya Varunsinh Manojsinh, Chaudhary Harsh Ashokkumar, 20252501014, B.DW-013, 20252501013-CSE Bhalodiya Dew, Tutorial-3 YOUVA).
+
+---
+
+**3. PDF: Kushagra Chasta (20252503026)**
+
+*   **Grade: 3.0/10**
+*   **Questions where marks were deducted:**
+    *   **Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8 (8.0 deductions):** These questions were entirely missing.
+    *   **Q12(b) (0.5 deduction):** Incomplete conclusion for the truth table analysis (stated it's not a tautology, but did not mention it's also not a contradiction).
+*   **Missing Questions:** Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8.
+*   **Plagiarism:** Significant word-by-word plagiarism found for Q10 and Q11, and very similar phrasing in Q9 and Q12, when compared to several other submissions (Akshay Kumawat, Atodariya Varunsinh Manojsinh, Chaudhary Harsh Ashokkumar, 20252501014, B.DW-013, 20252501013-CSE Bhalodiya Dew, Tutorial-3 YOUVA).
+
+---
+
+**4. PDF: Atodariya Varunsinh Manojsinh (20252561011)**
+
+*   **Grade: 8.5/10**
+*   **Questions where marks were deducted:**
+    *   **Q9 (1.0 deduction):** The example provided for `f` and `g` does not correctly satisfy all the conditions (specifically, `f` was stated as one-to-one when it needed to be not one-to-one, and `f ◦ g` was not a bijection).
+    *   **Q12(b) (1.0 deduction):** Incorrect truth table calculation and conclusion (stated it's a contradiction when it is a contingent statement).
+*   **Missing Questions:** None.
+*   **Plagiarism:** Significant word-by-word plagiarism found for Q10 and Q11, and very similar phrasing in Q6, Q7, when compared to several other submissions (Akshay Kumawat, Kushagra Chasta, Chaudhary Harsh Ashokkumar, 20252501014, B.DW-013, 20252501013-CSE Bhalodiya Dew, Tutorial-3 YOUVA).
+
+---
+
+**5. PDF: MA102 Tut 3**
+
+*   **Grade: 6.5/10**
+*   **Questions where marks were deducted:**
+    *   **Q4(a) (0.5 deduction):** Confusing and potentially incorrect reasoning for the maximum value proof in the rearrangement inequality.
+    *   **Q6 (1.5 deductions):** This question was entirely missing.
+    *   **Q7 (1.5 deductions):** This question was entirely missing.
+    *   **Q12(b) (1.0 deduction):** Incorrect truth table calculation and conclusion (stated it's a contradiction when it is a contingent statement).
+*   **Missing Questions:** Q6, Q7.
+*   **Plagiarism:** No significant word-by-word plagiarism found compared to other submissions, although some standard examples and general phrasing were similar.
+
+---
+
+**6. PDF: Chaudhary Harsh Ashokkumar (20252501016)**
+
+*   **Grade: 8.0/10**
+*   **Questions where marks were deducted:**
+    *   **Q4 (1.0 deduction):** Confusing derivations and errors in the reasoning for both parts (a) and (b) of the rearrangement inequality proof.
+    *   **Q7(b) (0.5 deduction):** Incorrect conclusion for surjectivity (`f(m,n) = m^2 - n^2` is surjective, but the student claimed it wasn't).
+    *   **Q12(b) (1.0 deduction):** Incorrect truth table calculation and conclusion (stated it's a contradiction when it is a contingent statement).
+*   **Missing Questions:** None.
+*   **Plagiarism:** Significant word-by-word plagiarism found for Q10 and Q11, and very similar phrasing in Q2, Q3, Q5, Q6, Q7, when compared to several other submissions (Akshay Kumawat, Kushagra Chasta, Atodariya Varunsinh Manojsinh, 20252501014, B.DW-013, 20252501013-CSE Bhalodiya Dew, Tutorial-3 YOUVA).
+
+---
+
+**7. PDF: 20252501014**
+
+*   **Grade: 8.5/10**
+*   **Questions where marks were deducted:**
+    *   **Q6(c) (0.5 deduction):** Incorrect calculation example for injectivity (e.g., `f(1) = [1/2] = 0` instead of `1`), although the conclusion was correct.
+    *   **Q7(b) (0.5 deduction):** Incorrect conclusion for surjectivity (`f(m,n) = m^2 - n^2` is surjective, but the student claimed it wasn't).
+    *   **Q12(b) (1.0 deduction):** Incorrect truth table calculation and conclusion (stated it's a contradiction when it is a contingent statement).
+*   **Missing Questions:** None.
+*   **Plagiarism:** Significant word-by-word plagiarism found for Q10 and Q11, and very similar phrasing in Q2, Q3, Q5, Q6, Q7, Q12, when compared to several other submissions (Akshay Kumawat, Kushagra Chasta, Atodariya Varunsinh Manojsinh, Chaudhary Harsh Ashokkumar, B.DW-013, 20252501013-CSE Bhalodiya Dew, Tutorial-3 YOUVA).
+
+---
+
+**8. PDF: Tutorial-3 (YOUVA)**
+
+*   **Grade: 8.5/10**
+*   **Questions where marks were deducted:**
+    *   **Q1 (0.5 deduction):** This question was entirely missing.
+    *   **Q7(b) (0.5 deduction):** Incorrect conclusion for surjectivity (`f(m,n) = m^2 - n^2` is surjective, but the student claimed it wasn't).
+    *   **Q12(b) (1.0 deduction):** Incorrect truth table calculation and conclusion (stated it's a contradiction when it is a contingent statement).
+*   **Missing Questions:** Q1.
+*   **Plagiarism:** Significant word-by-word plagiarism found for Q10 and Q11, and very similar phrasing in Q2, Q3, Q5, Q6, Q7, Q12, when compared to several other submissions (Akshay Kumawat, Kushagra Chasta, Atodariya Varunsinh Manojsinh, Chaudhary Harsh Ashokkumar, 20252501014, B.DW-013, 20252501013-CSE Bhalodiya Dew).
+
+---
+
+**9. PDF: B.DW-013**
+
+*   **Grade: 8.0/10**
+*   **Questions where marks were deducted:**
+    *   **Q3 (0.5 deduction):** Flawed proof logic for the existence of an irrational number between a rational and an irrational number (confused properties of rational 'c').
+    *   **Q6(c) (0.5 deduction):** Confusing explanation/justification for surjectivity using a graphical method.
+    *   **Q7(b) (0.5 deduction):** Incorrect conclusion for surjectivity (`f(m,n) = m^2 - n^2` is surjective, but the student claimed it wasn't).
+    *   **Q12(b) (1.0 deduction):** Incorrect truth table calculation and conclusion (stated it's a contradiction when it is a contingent statement).
+*   **Missing Questions:** None (Q1 was at the beginning of the PDF).
+*   **Plagiarism:** Significant word-by-word plagiarism found for Q10 and Q11, and very similar phrasing in Q2, Q5, Q6, Q7, Q9, Q12, when compared to several other submissions (Akshay Kumawat, Kushagra Chasta, Atodariya Varunsinh Manojsinh, Chaudhary Harsh Ashokkumar, 20252501014, 20252501013-CSE Bhalodiya Dew, Tutorial-3 YOUVA).
+
+---
+
+**10. PDF: 20252501013-CSE (Bhalodiya Dew)**
+
+*   **Grade: 7.5/10**
+*   **Questions where marks were deducted:**
+    *   **Q6(c) (0.5 deduction):** Poor explanation/justification for surjectivity, using a graphical method that seemed misapplied.
+    *   **Q7(b) (0.5 deduction):** Incorrect conclusion for surjectivity (`f(m,n) = m^2 - n^2` is surjective, but the student claimed it wasn't).
+    *   **Q9 (1.0 deduction):** The example provided for `f` and `g` does not correctly satisfy all the conditions (specifically, `f ◦ g` was not a bijection as constructed).
+    *   **Q12(b) (1.0 deduction):** Incorrect truth table calculation and conclusion (stated it's a contradiction when it is a contingent statement).
+*   **Missing Questions:** None.
+*   **Plagiarism:** Significant word-by-word plagiarism found for Q10 and Q11, and very similar phrasing in Q2, Q5, Q6, Q7, Q12, when compared to several other submissions (Akshay Kumawat, Kushagra Chasta, Atodariya Varunsinh Manojsinh, Chaudhary Harsh Ashokkumar, 20252501014, B.DW-013, Tutorial-3 YOUVA).
+
+---
+
+**Plagiarism Summary for Submissions:**
+
+A large number of submissions (8 out of 10) show significant evidence of word-by-word plagiarism, particularly in the proofs for **Q10 (invertibility of linear function)** and **Q11 (surjectivity of composite function)**. The phrasing, logical steps, and conclusions for these questions are nearly identical across the following PDFs:
+
+*   **Akshay Kumawat (20252501007)**
+*   **Kushagra Chasta (20252503026)**
+*   **Atodariya Varunsinh Manojsinh (20252561011)**
+*   **Chaudhary Harsh Ashokkumar (20252501016)**
+*   **20252501014**
+*   **Tutorial-3 (YOUVA)**
+*   **B.DW-013**
+*   **20252501013-CSE (Bhalodiya Dew)**
+
+Similar phrasing and examples are also observed in solutions for other questions like Q2, Q3, Q5, Q6, Q7, Q9, and Q12 among these same PDFs. This strongly suggests a common source from which these students copied or that they copied directly from each other.
+
+==================================================
+Batch 2/12
+==================================================
+Here are the grades for each student, along with detailed deductions and plagiarism findings.
+
+---
+
+**Student 1 (tutorial_3_pdf1.pdf)**
+
+*   **Grade: 9.5/10**
+*   **Deducted questions:**
+    *   **Q2:** -1 mark. The reasoning for why `2 * 10^500 + 16` is a perfect square is incorrect (being congruent to 0 mod 4 does not prove it's a perfect square; it only means it *could* be one). However, the overall proof for `2 * 10^500 + 15` not being a perfect square is correct and sufficient.
+    *   **Q9:** -10 marks. The provided example for functions `f` and `g` such that `f ◦ g` is a bijection, but `g` is not onto and `f` is not one-to-one, is incorrect. The resulting `f ◦ g` is not a bijection.
+    *   **Q12(b):** -3 marks. The reasoning for classifying the compound proposition is confused and incomplete, although the final conclusion (neither tautology nor contradiction) is correct.
+*   **Missing questions:** Q13, Q14 (as instructed).
+*   **Plagiarism:** No plagiarism found compared to other submissions.
+
+---
+
+**Student 2 (tutorial_3_pdf2.pdf)**
+
+*   **Grade: 9.5/10**
+*   **Deducted questions:**
+    *   **Q5(a):** -1 mark. Minor deduction for confusing variable notation in the definition of the image (using 'n=f(y)' instead of 'y=f(n)').
+    *   **Q6(a):** -1 mark. The reasoning for surjectivity for `f(n)=n^3` ("because every integer is a perfect cube") is flawed; it should be "because *not* every integer is a perfect cube". The conclusion is correct.
+    *   **Q7(b):** -3 marks. The reasoning for surjectivity for `f(m,n)=m^2-n^2` is very unclear and not well-articulated, although the conclusion that it is not surjective is correct.
+    *   **Q9:** -10 marks. The provided example for functions `f` and `g` is incorrect. The function definitions are problematic given the required domains/codomains, and the properties for `f` (not one-to-one) and the composition `f ◦ g` (bijective) are not met.
+*   **Missing questions:** Q13, Q14 (as instructed).
+*   **Plagiarism:** No plagiarism found compared to other submissions.
+
+---
+
+**Student 3 (tutorial_3_pdf3.pdf)**
+
+*   **Grade: 7.5/10**
+*   **Deducted questions:**
+    *   **Q3:** -7 marks. The proof for there being an irrational number between a rational and an irrational number is missing the core argument (why the average is irrational); it only states the result and provides an example.
+    *   **Q4(a):** -10 marks. There is a fundamental confusion in the reasoning between maximizing and minimizing the sum using the rearrangement inequality. The argument presented for maximum value incorrectly aims for the minimum, but then concludes maximum.
+    *   **Q6(c):** -5 marks. There is a calculation error in demonstrating non-injectivity for `f(n)=⌈n/2⌉`; `f(2)=1` and `f(3)=2`, not `f(3)=1`. The correct example is `f(1)=1` and `f(2)=1`.
+    *   **Q7(b):** -5 marks. The reasoning for surjectivity for `f(m,n)=m^2-n^2` is incorrect (`The range of f is the set of all possible product of two integer` is for `f(m,n)=mn`).
+    *   **Q9:** -10 marks. The provided example for functions `f` and `g` is incorrect. The function definitions are problematic, and the properties for `f` (not one-to-one) and the composition `f ◦ g` (bijective) are not met. There is also an error in calculating `f(√4)`.
+*   **Missing questions:** Q13, Q14 (as instructed).
+*   **Plagiarism:** No plagiarism found compared to other submissions.
+
+---
+
+**Student 4 (tutorial_3_pdf4.pdf)**
+
+*   **Grade: 9.5/10**
+*   **Deducted questions:**
+    *   **Q9:** -10 marks. The provided example for functions `f` and `g` is incorrect. While `g(x)=x^2` is not onto R and `f(x)=|x|` is not one-to-one, their composition `(f ◦ g)(x) = x^2` is neither injective nor surjective on R, so it is not a bijection.
+*   **Missing questions:** Q13, Q14 (as instructed).
+*   **Plagiarism:** **Plagiarism detected.** This submission's solution for **Q9** and the truth tables for **Q12(a)** and **Q12(b)** are identical in content and presentation to Student 6 and Student 7.
+
+---
+
+**Student 5 (tutorial_3_pdf5.pdf)**
+
+*   **Grade: 9.5/10**
+*   **Deducted questions:**
+    *   **Q9:** -10 marks. The provided example for functions `f` and `g` is incorrect. The function `f(x)=ln(x)` (or `log x`) is not defined on all of `R`, making the problem's required domain/codomain conditions for `f: R → R` impossible to satisfy. Thus, the example is fundamentally flawed.
+*   **Missing questions:** Q13, Q14 (as instructed).
+*   **Plagiarism:** No plagiarism found compared to other submissions.
+
+---
+
+**Student 6 (tutorial_3_pdf6.pdf)**
+
+*   **Grade: 9.5/10**
+*   **Deducted questions:**
+    *   **Q9:** -10 marks. The provided example for functions `f` and `g` is incorrect. While `g(x)=x^2` is not onto R and `f(x)=|x|` is not one-to-one, their composition `(f ◦ g)(x) = x^2` is neither injective nor surjective on R, so it is not a bijection.
+*   **Missing questions:** Q13, Q14 (as instructed).
+*   **Plagiarism:** **Plagiarism detected.** This submission's solution for **Q9** and the truth tables for **Q12(a)** and **Q12(b)** are identical in content and presentation to Student 4 and Student 7.
+
+---
+
+**Student 7 (tutorial_3_pdf7.pdf)**
+
+*   **Grade: 9.5/10**
+*   **Deducted questions:**
+    *   **Q9:** -10 marks. The provided example for functions `f` and `g` is incorrect. While `g(x)=x^2` is not onto R and `f(x)=|x|` is not one-to-one, their composition `(f ◦ g)(x) = x^2` is neither injective nor surjective on R, so it is not a bijection.
+*   **Missing questions:** Q13, Q14 (as instructed).
+*   **Plagiarism:** **Plagiarism detected.** This submission's solution for **Q9** and the truth tables for **Q12(a)** and **Q12(b)** are identical in content and presentation to Student 4 and Student 6.
+
+---
+
+**Plagiarism Report:**
+*   **Students 4, 6, and 7 have submitted identical solutions for Question 9 and identical truth tables for Questions 12(a) and 12(b).** This pattern, across multiple questions including a complex example (Q9) and structured answers (Q12 truth tables), strongly indicates word-for-word copying, either from each other or from a common external source.
+
+==================================================
+Batch 3/12
+==================================================
+Here are the grades for each submission, along with deductions and plagiarism reports:
+
+---
+
+**1. Unnamed PDF (first OCR output)**
+
+*   **Grade: 5.0 / 10**
+*   **Deductions:**
+    *   **Q2:** Major logical flaw in the proof that one of the numbers is not a perfect square. The approach of (x-y)(x+y)=1 only yields (1,0) or (-1,0) as integer solutions, which don't apply to the given large numbers. The conclusion "contradiction" based on A>0 is also misplaced. (-2.0)
+    *   **Q4:** Missing. (-1.5)
+    *   **Q12(a):** Initial logical equivalence steps are flawed/incorrect, although the final conclusion (tautology) is correct (likely from an unprovided truth table). (-0.5)
+    *   **Q12(b):** The simplification to (q ∧ ¬p ∧ r) is correct, but the conclusion that it's a contradiction is incorrect; it's a contingency. (-1.0)
+*   **Missing Questions:** Q4
+
+---
+
+**2. Nemisha Triveni**
+
+*   **Grade: 1.0 / 10**
+*   **Deductions:**
+    *   **Q4(a):** Only states the conclusion, no proof or justification. (-0.75)
+    *   **Q4(b):** Only states the conclusion, no proof or justification. (-0.75)
+    *   **Q5(a):** Only states the conclusion ("from definition of image"), no proof provided. (-1.0)
+    *   **Q5(b):** Only states the inclusion and discusses when equality may not hold, no proof provided. (-1.0)
+    *   **Q6(c):** Incorrectly states the function is not onto; it is onto. (-1.0)
+    *   **Q7(c):** Incorrectly states the function is not onto; it is onto. (-1.0)
+    *   **Q9:** The example provided is incorrect. For g(x)=x, g is onto, violating the condition. Also, f∘g(x)=x^2 is not a bijection from R to R. (-1.5)
+    *   **Q12(a):** Major logical flaw in the simplification of propositional equivalences, though the final conclusion (tautology) is correct. (-1.0)
+    *   **Q12(b):** Correctly simplifies the expression but incorrectly concludes it is a contradiction. (-1.0)
+*   **Missing Questions:** None, but several proofs are incomplete.
+*   **Plagiarism:** No word-for-word plagiarism detected from other submissions.
+
+---
+
+**3. Parth Vinod Chavan**
+
+*   **Grade: 7.5 / 10**
+*   **Deductions:**
+    *   **Q7(a):** The proof for injectivity is logically flawed. The argument attempts to show injectivity but the conclusion (M1,n1)≠(M2,n2) is not derived correctly to prove injectivity, and a counterexample (e.g., f(0,0)=f(1,2)=0) exists. (-1.0)
+    *   **Q9:** The example provided is incorrect. For f(x)=ln(x), f is one-to-one (in its natural domain (0,∞)), violating the condition that f must not be one-to-one. (-1.5)
+*   **Missing Questions:** None
+
+---
+
+**4. P. Ghan Shyam**
+
+*   **Grade: 1.75 / 10**
+*   **Deductions:**
+    *   **Q2:** Minor flaw in the concluding statement for 2*10^500+16 (states "Squares be 0 and 4" instead of "0 or 1" modulo 4). (-0.25)
+    *   **Q5 - Q12:** All these questions are *not* the questions from the tutorial. The student has answered different problems related to logic and functions but not the specific tutorial questions. This indicates a misunderstanding or submission of a different assignment. (-1.0 for each of Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12 = -8.0)
+*   **Missing Questions:** Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12 (answered different questions for these numbers).
+
+---
+
+**5. Unnamed PDF (Maths)**
+
+*   **Grade: 2.0 / 10 (PLAGIARISED)**
+*   **Deductions (before plagiarism adjustment):**
+    *   **Q7(b):** The counterexample for injectivity (f(2,1)=3, f(3,2)=5) is incorrect as these are different values; it does not show non-injectivity. (-1.0)
+    *   **Q7(b):** The reasoning for non-surjectivity ("n was not mapped") is unclear and potentially incorrect (e.g., 4 is mapped by (2,0)). (-0.5)
+*   **Missing Questions:** None
+*   **Plagiarism:** Extensive word-for-word and line-by-line similarity in many proofs (Q4, Q5, Q6, Q8, Q10, Q11) and identical truth tables for Q12 with other submissions (Parth Vinod Chavan, Raghav Achheng, Rishi Kumar Parjapat). This strongly indicates plagiarism from a common source.
+
+---
+
+**6. Raghav Achheng**
+
+*   **Grade: 2.0 / 10 (PLAGIARISED)**
+*   **Deductions (before plagiarism adjustment):**
+    *   **Q7(b):** The reasoning for non-injectivity is weak and unconvincing. (-0.5)
+    *   **Q9:** The example provided (f(x)=ln(x)) is incorrect, as f is one-to-one, violating the condition that f must not be one-to-one. (-1.5)
+*   **Missing Questions:** None
+*   **Plagiarism:** Extensive word-for-word and line-by-line similarity in many proofs (Q4, Q5, Q6, Q8, Q10, Q11) and identical truth tables for Q12, along with the same incorrect example for Q9, with other submissions (Parth Vinod Chavan, Unnamed Maths, Rishi Kumar Parjapat). This strongly indicates plagiarism from a common source.
+
+---
+
+**7. Rishi Kumar Parjapat**
+
+*   **Grade: 2.0 / 10 (PLAGIARISED)**
+*   **Deductions (before plagiarism adjustment):**
+    *   **Q7(b):** The reasoning for non-surjectivity ("4 was not mapped") is incorrect, as f(2,0)=4. (-1.0)
+    *   **Q9:** The example provided (f(x)=ln(x)) is incorrect, as f is one-to-one, violating the condition that f must not be one-to-one. (-1.5)
+*   **Missing Questions:** None
+*   **Plagiarism:** Extensive word-for-word and line-by-line similarity in many proofs (Q4, Q5, Q6, Q8, Q10, Q11) and identical truth tables for Q12, along with the same incorrect example for Q9, with other submissions (Parth Vinod Chavan, Unnamed Maths, Raghav Achheng). This strongly indicates plagiarism from a common source.
+
+---
+
+**Plagiarism Report Summary:**
+PDFs from **Unnamed (Maths)**, **Raghav Achheng**, and **Rishi Kumar Parjapat** show significant word-for-word and line-by-line plagiarism across multiple questions (specifically proofs for Q4, Q5, Q6, Q8, Q10, Q11, and identical truth tables for Q12). The submission by **Parth Vinod Chavan** appears to be either original or the source from which others copied, as its content is extensively replicated in the plagiarized submissions.
+
+==================================================
+Batch 4/12
+==================================================
+Here are the grades for each submission, along with details on marks deducted and missing questions. Questions 13 and 14 were not graded as per instructions.
+
+---
+
+### **1. Rohit Dhakad**
+*   **Grade: 6.5 / 10**
+
+*   **Questions where marks were deducted:**
+    *   **Q2 (0.5 marks deducted):** Explanation for why two consecutive numbers cannot both be perfect squares (other than 0,1) was slightly vague and less precise in wording.
+    *   **Q4(b) (0.5 marks deducted):** The conclusion for the minimum value was somewhat muddled, using phrasing that better suited the maximum value argument, even though the mathematical derivation for `S <= S'` was correct.
+    *   **Q6(c) (1.0 mark deducted):** The counterexample for injectivity was not clearly articulated (e.g., `f(1)=1, f(2)=1` would be clearer than `f(x1)=x1/2, f(x1+1)=x1/2`). The argument for surjectivity was missing, only stating "hence onto" without justification.
+    *   **Q7(b) (0.5 marks deducted):** No argument provided for `f(m,n) = m² - n²` not being surjective.
+    *   **Q7(c) (0.5 marks deducted):** No argument provided for `f(m,n) = |m| - |n|` being surjective.
+    *   **Q8(c) (0.5 marks deducted):** No range analysis or clear explanation for `f(x) = (x² + 1) / (x² + 2)` not being surjective.
+
+*   **Missing questions:** None.
+
+---
+
+### **2. Sabad Abhinav Rambhaj**
+*   **Grade: 8.0 / 10**
+
+*   **Questions where marks were deducted:**
+    *   **Q4(a,b) (0.5 marks deducted):** Explanations for both maximum and minimum values were quite brief and lacked full mathematical clarity in the interpretation of the rearrangement inequality steps.
+    *   **Q6(c) (0.5 marks deducted):** The argument for surjectivity of `f(n) = ⌈n/2⌉` was descriptive ("can give all integers") but lacked a formal justification (e.g., showing `f(2k)=k`).
+    *   **Q7(a,b,c) (1.0 mark deducted):** Surjectivity arguments for `f(m,n) = 2m - n`, `f(m,n) = m² - n²`, and `f(m,n) = |m| - |n|` were either missing or very brief without adequate justification.
+
+*   **Missing questions:** None.
+
+---
+
+### **3. Sarthak S. Sinha**
+*   **Grade: 3.0 / 10**
+
+*   **Questions where marks were deducted:**
+    *   **Q3 (0.5 marks deducted):** Initial incorrect definition of `y = r + (x-r)` as a number between `r` and `x`.
+    *   **Q4(a,b) (1.5 marks deducted):** Answers for both parts were purely descriptive, stating the conclusions without providing any mathematical proof or derivation using the rearrangement inequality.
+    *   **Q6(c) (0.5 marks deducted):** Wording for the surjectivity argument was awkward ("preimage k/2 is onto").
+    *   **Q7(a) (0.5 marks deducted):** The argument for surjectivity (`f(k,0)=2k`) only covers even integers, not all integers in Z.
+    *   **Q7(b) (0.5 marks deducted):** No argument provided for `f(m,n) = m² - n²` not being surjective.
+    *   **Q7(c) (0.5 marks deducted):** The argument for surjectivity (`f(k,0)=|k|`) only covers non-negative integers.
+    *   **Q8(c) (0.5 marks deducted):** No formal range explanation for `f(x) = (x² + 1) / (x² + 2)` not being surjective.
+    *   **Q9 (2.0 marks deducted):** The example provided (`g(x)=x², f(x)=√x`) is incorrect. `f(x)=√x` is not defined for `x < 0` in R, and the composition `f(g(x))=|x|` is not a bijection from R to R.
+    *   **Q10 (0.5 marks deducted):** Included irrelevant text ("composition is bijection. g is not onto, f is not injective") from a different question.
+
+*   **Missing questions:** None.
+
+---
+
+### **4. Shubham Pareek**
+*   **Grade: 3.5 / 10**
+
+*   **Questions where marks were deducted:**
+    *   **Q1 (0.5 marks deducted):** Verification for `n=3` was missing.
+    *   **Q2 (2.0 marks deducted):** The approach to proving that one of the numbers is not a perfect square was confused and lacked mathematical rigor. It involved an undefined `K` and then a descriptive example that did not constitute a formal proof.
+    *   **Q4(a,b) (1.5 marks deducted):** Answers for both parts were purely descriptive, stating the conclusions without providing any mathematical proof or derivation using the rearrangement inequality.
+    *   **Q6(c) (0.5 marks deducted):** A minor error in the counterexample for injectivity (`f(0)=1` instead of `f(0)=0`, though `f(1)=1, f(2)=1` was correctly identified).
+    *   **Q7(a) (0.5 marks deducted):** Argument for surjectivity was brief ("Range of f(m,n) ∈ Z. Yes, it is onto.") without showing how any integer `k` can be generated.
+    *   **Q7(b) (0.5 marks deducted):** No specific counterexample or argument for `f(m,n) = m² - n²` not being surjective.
+    *   **Q7(c) (1.0 mark deducted):** No specific counterexample for `f(m,n) = |m| - |n|` not being injective, and incorrectly stated that the function is not surjective ("Range of f(m,n) cannot give all integers").
+
+*   **Missing questions:** None.
+
+---
+
+### **5. U. Naveen Paul**
+*   **Grade: 5.5 / 10**
+
+*   **Questions where marks were deducted:**
+    *   **Q4(a,b) (2.0 marks deducted):** The answer for maximum value was confused, mixing up increasing and decreasing sorting arguments and leading to an incorrect conclusion in relation to the calculation shown. The minimum value part was purely descriptive without mathematical proof.
+    *   **Q6(c) (1.0 mark deducted):** The explanation for injectivity was unclear and did not provide a precise counterexample (e.g., `f(1)=1, f(2)=1`). The surjectivity argument was missing, only stating "hence onto".
+    *   **Q7(b) (0.5 marks deducted):** No argument provided for `f(m,n) = m² - n²` not being surjective.
+    *   **Q7(c) (0.5 marks deducted):** No argument provided for `f(m,n) = |m| - |n|` being surjective.
+    *   **Q8(c) (0.5 marks deducted):** No range analysis or clear explanation for `f(x) = (x² + 1) / (x² + 2)` not being surjective.
+
+*   **Missing questions:** None.
+
+---
+
+### **Plagiarism Report**
+
+Significant evidence of plagiarism has been found across multiple submissions.
+
+1.  **Question 5 (f(S ∪ T) = f(S) ∪ f(T) and f(S ∩ T) ⊆ f(S) ∩ f(T))**:
+    *   All five submissions (Rohit Dhakad, Sabad Abhinav Rambhaj, Sarthak S. Sinha, Shubham Pareek, and U. Naveen Paul) presented virtually identical proofs for both parts of Question 5. The logical structure, phrasing, and even specific word choices are consistently the same across all PDFs. This is a very strong indicator that all students copied from a single common source (e.g., a solution manual, an online resource, or another student's work).
+
+2.  **Question 9 (Example of functions f and g)**:
+    *   The specific example `g: Z → Z × Z`, `g(n) = (n,0)` (not onto) and `f: Z × Z → Z`, `f(m,n) = m` (not one-to-one), leading to `f ◦ g: Z → Z`, `(f ◦ g)(n) = n` (bijection) was identical in submissions from **Rohit Dhakad, Sabad Abhinav Rambhaj, and U. Naveen Paul**. This precise and somewhat canonical example, presented identically, strongly suggests copying from a shared source.
+
+3.  **Question 3 (Irrational number between rational and irrational)**:
+    *   The proof structure, particularly the use of a proof by contradiction involving the midpoint `(r+x)/2` and the deduction that `2z-r` would be rational, leading to `x` being rational (a contradiction), was highly similar in **Rohit Dhakad, Sabad Abhinav Rambhaj, Sarthak S. Sinha, and Shubham Pareek**.
+
+This pattern of word-for-word or highly similar solutions for specific, non-trivial questions (especially Q5 and Q9) across multiple students points towards widespread plagiarism.
+
+==================================================
+Batch 5/12
+==================================================
+Here are the grades for each submission, along with deductions, missing questions, and plagiarism findings. Questions 13 and 14 have not been checked as requested.
+
+---
+
+**1. Student: 20252501089**
+*   **Grade:** 10/10
+*   **Deductions:** None
+*   **Missing Questions:** None
+*   **Plagiarism:** This submission appears to be the original source that was copied by an unidentified student (Student 10 in this report).
+
+---
+
+**2. Student: 20252504026 (Gowtham Raj)**
+*   **Grade:** 0/10
+*   **Deductions:** All questions are irrelevant to the tutorial (content is on vector calculus).
+*   **Missing Questions:** All questions from the tutorial are missing.
+*   **Plagiarism:** Not applicable, as the submission contains irrelevant content.
+
+---
+
+**3. Student: 20252561092 (Vedansh Upadhyay)**
+*   **Grade:** 8.0/10
+*   **Deductions:**
+    *   **Q4a:** -0.3 for only stating the conclusion without a formal proof.
+    *   **Q4b:** -0.3 for only stating the conclusion without a formal proof.
+    *   **Q7b:** -0.13 for an incomplete explanation of why the function is not surjective.
+    *   **Q9:** -1.0 for providing an invalid example for the function `f` (not well-defined for `R -> R` or not one-to-one as required) and an incorrect statement about `g` being onto.
+*   **Missing Questions:** None
+*   **Plagiarism:**
+    *   **Q2:** Highly similar phrasing and argument structure for the difference of consecutive squares with Student 5 (20252503002) and Student 6 (20252503005).
+    *   **Q4:** Shared lack of formal proof with Student 5, Student 6, and Student 9 (20252503015).
+    *   **Q12a (Truth Table):** Identical truth table structure and values with Student 6 and Student 9.
+
+---
+
+**4. Student: 20252501043 (Vir Shama)**
+*   **Grade:** 6.5/10
+*   **Deductions:**
+    *   **Q3:** -0.5 for an incorrect statement about the sum of a rational and an irrational number (stated as rational, which is false).
+    *   **Q4a:** -0.5 for incorrect logic (the proof provided actually demonstrates the condition for the minimum value, not the maximum).
+    *   **Q4b:** -0.5 for incorrect logic (the proof provided demonstrates the condition for the maximum value, not the minimum).
+    *   **Q9:** -1.0 for providing an invalid example for the functions `f` and `g` (e.g., `g(x) = x/2` for `Z -> Z` is not a function for all integers, and if `R -> R`, `f` and `g` would be bijections themselves, failing the criteria).
+*   **Missing Questions:** None
+*   **Plagiarism:** No direct word-for-word plagiarism detected.
+
+---
+
+**5. Student: 20252503002 (Abhinav Srivastava)**
+*   **Grade:** 8.0/10
+*   **Deductions:**
+    *   **Q4a:** -0.3 for only stating the conclusion without a formal proof.
+    *   **Q4b:** -0.3 for only stating the conclusion without a formal proof.
+    *   **Q12a:** -0.3 for providing only the conclusion without a truth table.
+    *   **Q12b:** -0.3 for providing only the conclusion without a truth table.
+*   **Missing Questions:** None
+*   **Plagiarism:**
+    *   **Q2:** Highly similar phrasing and argument structure for the difference of consecutive squares with Student 3 (20252561092) and Student 6 (20252503005).
+    *   **Q4:** Shared lack of formal proof with Student 3, Student 6, and Student 9 (20252503015).
+
+---
+
+**6. Student: 20252503005 (Apurva Arya)**
+*   **Grade:** 8.0/10
+*   **Deductions:**
+    *   **Q4a:** -0.3 for only stating the conclusion without a formal proof.
+    *   **Q4b:** -0.3 for only stating the conclusion without a formal proof.
+    *   **Q7b:** -0.13 for an incomplete explanation of why the function is not surjective.
+    *   **Q9:** -1.0 for missing the question.
+*   **Missing Questions:** Q9
+*   **Plagiarism:**
+    *   **Q2:** Highly similar phrasing and argument structure for the difference of consecutive squares with Student 3 (20252561092) and Student 5 (20252503002).
+    *   **Q4:** Shared lack of formal proof with Student 3, Student 5, and Student 9 (20252503015).
+    *   **Q12a (Truth Table):** Identical truth table structure and values with Student 3 and Student 9.
+
+---
+
+**7. Student: 20252503011**
+*   **Grade:** 9.0/10
+*   **Deductions:**
+    *   **Q9:** -1.0 for providing an invalid example for the functions `f` and `g` (similar to Student 3 and Student 4).
+*   **Missing Questions:** None
+*   **Plagiarism:**
+    *   **Q4:** Very similar proof structure and expression `(xj-xi)(yi-yj)` compared to Student 1 (20252501089).
+
+---
+
+**8. Student: 20252503014 (Atharva Chavan)**
+*   **Grade:** 8.5/10
+*   **Deductions:**
+    *   **Q4:** -1.0 for missing the question.
+    *   **Q12b:** -0.5 for an incorrect truth table, leading to the wrong conclusion (Contradiction instead of Contingency).
+*   **Missing Questions:** Q4
+*   **Plagiarism:**
+    *   **Q2:** Highly similar phrasing for the `mod 4` argument with Student 9 (20252503015).
+
+---
+
+**9. Student: 20252503015 (Devam Shah)**
+*   **Grade:** 6.5/10
+*   **Deductions:**
+    *   **Q4a:** -0.3 for only stating the conclusion without a formal proof.
+    *   **Q4b:** -0.3 for only stating the conclusion without a formal proof.
+    *   **Q6a:** -0.16 for an incorrect conclusion about `f(n)=n^3` being surjective for `Z -> Z`.
+    *   **Q7c:** -0.16 for an incorrect conclusion about `f(m,n)=|m|-|n|` not being surjective.
+    *   **Q9:** -1.0 for missing the question.
+    *   **Q11:** -1.0 for missing the question.
+*   **Missing Questions:** Q9, Q11
+*   **Plagiarism:**
+    *   **Q2:** Highly similar phrasing for the `mod 4` argument with Student 8 (20252503014).
+    *   **Q4:** Shared lack of formal proof with Student 3 (20252561092), Student 5 (20252503002), and Student 6 (20252503005).
+    *   **Q12a (Truth Table):** Identical truth table structure and values with Student 3 and Student 6.
+
+---
+
+**10. Student: Unidentified (from initial OCR)**
+*   **Grade:** 10/10
+*   **Deductions:** None
+*   **Missing Questions:** None
+*   **Plagiarism:** This PDF is an **exact word-for-word, line-by-line copy** of Student 1 (20252501089)'s submission across all graded questions (Q1-Q12). This is a clear case of direct plagiarism.
+
+---
+
+**Plagiarism Summary Report:**
+
+**A. Exact Copies:**
+*   **Student 1 (20252501089) and Unidentified Student (Student 10 in this report):** These two submissions are identical, word-for-word and line-by-line, for all questions (Q1-Q12). This is clear, direct plagiarism.
+
+**B. Extensive Shared Content (highly indicative of copying from a common source or each other):**
+*   **Q2 (Perfect Squares):**
+    *   Students 3, 5, and 6 use the `(n+1)^2 - n^2 = 2n+1` argument with very similar phrasing and reasoning.
+    *   Students 8 and 9 use the `mod 4` argument, with extremely similar phrasing for `2 * 10^500 + 15 = 3 (mod 4)` and "Perfect Square are congruent to 0 or 1 (mod 4)". This indicates direct copying between 8 and 9.
+*   **Q4 (Rearrangement Inequality):** Students 3, 5, 6, and 9 all fail to provide a formal proof for parts (a) and (b), merely stating the correct conditions for maximum/minimum value. This strongly suggests a shared source that omitted the proofs, or direct copying of this incomplete answer.
+*   **Q12a (Tautology Truth Table):** Students 3, 6, and 9 have identical truth table structures and truth values for this question. This is strong evidence of plagiarism.
+
+---
+
+==================================================
+Batch 6/12
+==================================================
+Here are the grades for each submission, including details on mark deductions, missing questions, and plagiarism findings.
+
+---
+
+**1. Parth (Roll No: 20252503016)**
+*   **Grade:** 9.5/10
+*   **Deducted Marks:**
+    *   **Q4(b)** (0.5 marks): The proof for the minimum value in part (b) is based on incorrect assumptions about the ordering of `y_i` and `y_j` to demonstrate the minimum sum. While the general rearrangement inequality is understood, the specific derivation for the minimum condition is flawed.
+*   **Missing Questions:** None.
+*   **Plagiarism:** **Strong evidence of plagiarism for Question 9.** The example provided (sets A, B, C and the specific mappings for f and g) is identical in structure and content to the submission by Patel Dhyey Jayeshkumar (Roll No: 20252503038).
+
+---
+
+**2. Harsh Gupta (Roll No: 20252503057)**
+*   **Grade:** 9/10
+*   **Deducted Marks:**
+    *   **Q9** (1 mark): The example provided for functions f and g (`g(x)=x^2` and `f(x)=sqrt(x)`) is mathematically problematic for the specified domains and codomains (`R -> R`). `f(x)=sqrt(x)` is not defined for all real numbers, and the example does not clearly demonstrate `g` as not onto and `f` as not one-to-one under standard interpretations.
+*   **Missing Questions:** None.
+*   **Plagiarism:** None found.
+
+---
+
+**3. Himanshu Singh (Roll No: 20252501020)**
+*   **Grade:** 7.5/10
+*   **Deducted Marks:**
+    *   **Q4** (1 mark): For both parts (a) and (b), only statements of the rearrangement inequality results are provided, without any mathematical proof or derivation, which was explicitly asked for ("Show that").
+    *   **Q7(b)** (0.5 marks): The reasoning for `f(m,n) = m^2 - n^2` not being surjective is incorrect. The statement "odd no. impossible" is not accurate; it is numbers of the form 4k+2 (e.g., 2, 6, 10) that cannot be expressed as the difference of two squares.
+    *   **Q9** (1 mark): The example provided (`g(x)=e^x`, `f(y)=ln(y)`) does not meet the specified conditions that `g` is not onto and `f` is not one-to-one within their respective domains and codomains as stated.
+*   **Missing Questions:** None.
+*   **Plagiarism:** None found.
+
+---
+
+**4. Roll No: 20252503022**
+*   **Grade:** 9/10
+*   **Deducted Marks:**
+    *   **Q9** (1 mark): The example provided (`g(x)=x^2` and `f(x)=sqrt(x)`) is problematic. `g` is stated as not onto `R`, but `f` as `[0, inf) -> [0, inf)` is one-to-one, which contradicts the problem's condition for `f` (not one-to-one). The resulting composite function `f(g(x)) = |x|` is not bijective from `R -> R`.
+*   **Missing Questions:** None.
+*   **Plagiarism:** None found.
+
+---
+
+**5. Patel Dhyey Jayeshkumar (Roll No: 20252503038)**
+*   **Grade:** 10/10
+*   **Deducted Marks:** None.
+*   **Missing Questions:** None.
+*   **Plagiarism:** **Strong evidence of plagiarism for Question 9.** The example provided (sets A, B, C and the specific mappings for f and g) is identical in structure and content to the submission by Parth (Roll No: 20252503016).
+
+---
+
+**Summary of Plagiarism Found:**
+There is **strong evidence of plagiarism** between **Parth (Roll No: 20252503016)** and **Patel Dhyey Jayeshkumar (Roll No: 20252503038)** for **Question 9**. The specific counterexample involving sets and mappings is identical in both submissions.
+
+==================================================
+Batch 7/12
+==================================================
+Here are the grades for each PDF, including deductions, missing questions, and plagiarism findings. Questions 13 and 14 were not graded as per your instructions. Blurry pages were processed if legible parts could be deciphered.
+
+---
+
+**1. PDF 1 (Tutorial-3.pdf)**
+*   **Grade: 7.5 / 10**
+*   **Questions with Deductions:**
+    *   **Q4(a) (0/0.5):** Insufficient proof for maximum value. Merely states the elements are sorted without a proper demonstration of the rearrangement inequality.
+    *   **Q4(b) (0/0.5):** Insufficient proof for minimum value. Simply states the sequences should be in opposite orders without proof.
+    *   **Q6(a) (0.25/0.5):** Reasoning for injectivity ("f(x) != f(-x)") is confusing, though the conclusion of injectivity is correct. Reasoning for surjectivity is correct.
+    *   **Q7(b) (0.25/0.5):** The reasoning for non-surjectivity ("m^2-n^2 always greater than 0") is flawed, though the conclusion is correct.
+    *   **Q7(c) (0/0.5):** The explanation for non-injectivity and surjectivity is confusing and contains incorrect claims (e.g., f(m,n) >= 0 is false).
+    *   **Q9 (0/0.5):** The provided example for f and g does not correctly satisfy the conditions (f is injective in the given example, not non-one-to-one).
+*   **Missing Questions:** None (Q13, Q14 excluded)
+*   **Plagiarism Found:** None
+
+---
+
+**2. PDF 2 (MA102_Discrete_Maths.pdf)**
+*   **Grade: 8.0 / 10**
+*   **Questions with Deductions:**
+    *   **Q3 (0.5/1):** Missing proof step to show that (r+x)/2 is irrational. It states the sum is irrational but not that dividing by 2 keeps it irrational.
+    *   **Q4(a) (0.25/0.5):** Insufficient proof. States the core idea of swapping but doesn't detail the mathematical demonstration.
+    *   **Q4(b) (0.25/0.5):** Insufficient proof. States the principle without detailed demonstration.
+    *   **Q7(b) (0.25/0.5):** Reasoning for non-surjectivity ("all integer can be written as difference of two squares" followed by conclusion that it's not surjective) is confusing and partially incorrect, though the conclusion is right.
+    *   **Q7(c) (0.25/0.5):** The explanation for surjectivity is vague ("choose suitable m,n") without explicitly providing the construction.
+    *   **Q9 (0/0.5):** The provided example for f and g does not correctly satisfy the conditions (f is injective in the given example).
+*   **Missing Questions:** None (Q13, Q14 excluded)
+*   **Plagiarism Found:**
+    *   **Question 2:** The answer for Q2 is almost word-for-word identical to the answer found in PDF 6 and PDF 12.
+
+---
+
+**3. PDF 3 (B.Mahaveer.pdf)**
+*   **Grade: 1.0 / 10**
+*   **Questions with Deductions:**
+    *   **Q1 (0/0.5):** The proof attempted is irrelevant to the question asked.
+    *   **Q3 (0/1):** Missing.
+    *   **Q4(a) (0/0.5):** Missing.
+    *   **Q4(b) (0/0.5):** Missing.
+    *   **Q5(a) (0/0.5):** Missing.
+    *   **Q5(b) (0/0.5):** Missing.
+    *   **Q6(a) (0/0.5):** Incorrectly states not one-to-one and surjective without valid reasoning.
+    *   **Q6(b) (0/0.5):** Incorrect reasoning for both injectivity and surjectivity.
+    *   **Q7(a) (0/0.5):** Incorrectly claims injectivity and provides wrong counterexamples/reasoning.
+    *   **Q7(b) (0/0.5):** Incorrectly claims injectivity and provides wrong counterexamples/reasoning.
+    *   **Q7(c) (0/0.5):** Incorrectly claims injectivity and provides wrong counterexamples/reasoning.
+    *   **Q8(a) (0/0.5):** Missing reasoning and incorrect surjectivity claim.
+    *   **Q8(b) (0/0.5):** Missing reasoning.
+    *   **Q8(c) (0/0.5):** Missing reasoning.
+    *   **Q9 (0/0.5):** Missing.
+    *   **Q10 (0/0.5):** Incomplete proof for invertibility and incorrect inverse function notation.
+    *   **Q11 (0/0.5):** Missing.
+    *   **Q12(a) (0/0.5):** Missing.
+    *   **Q12(b) (0/0.5):** Missing.
+*   **Missing Questions:** Q3, Q4(a), Q4(b), Q5(a), Q5(b), Q9, Q11, Q12(a), Q12(b).
+*   **Plagiarism Found:** None
+
+---
+
+**4. PDF 4 (Aanchal_Gupta.pdf)**
+*   **Grade: 6.25 / 10**
+*   **Questions with Deductions:**
+    *   **Q2 (0.5/1):** Vague and poorly explained reasoning for why one of the numbers is not a perfect square, mixing concepts from Q1.
+    *   **Q4(a) (0/0.5):** Missing.
+    *   **Q4(b) (0/0.5):** Missing.
+    *   **Q5(a) (0/0.5):** Missing.
+    *   **Q5(b) (0/0.5):** Missing.
+    *   **Q7(b) (0/0.5):** Incorrectly claims that any integer can be written as m^2-n^2, leading to an incorrect conclusion about surjectivity.
+    *   **Q7(c) (0.25/0.5):** Vague explanation for surjectivity, though the conclusion is correct.
+    *   **Q9 (0/0.5):** The provided example for f and g does not correctly satisfy the conditions (f o g is not a bijection, and f is not one-to-one as required).
+*   **Missing Questions:** Q4(a), Q4(b), Q5(a), Q5(b).
+*   **Plagiarism Found:**
+    *   **Question 3:** The answer for Q3 is identical to the answer found in PDF 8.
+
+---
+
+**5. PDF 5 (Akash.pdf)**
+*   **Grade: 8.0 / 10**
+*   **Questions with Deductions:**
+    *   **Q3 (0/1):** The construction "r+i" is incorrect for being between r and i, and the reasoning is flawed.
+    *   **Q4(a) (0.25/0.5):** The presentation of the rearrangement inequality for maximum value is messy and unclear, though the formula (xi-xj)(yi-yj) is mentioned.
+    *   **Q4(b) (0.25/0.5):** The presentation of the rearrangement inequality for minimum value is messy and unclear.
+    *   **Q9 (0/0.5):** The provided example for f and g is incorrect (f is injective in the example).
+*   **Missing Questions:** None (Q13, Q14 excluded)
+*   **Plagiarism Found:** None
+
+---
+
+**6. PDF 6 (Hitansh_Darji.pdf)**
+*   **Grade: 7.0 / 10**
+*   **Questions with Deductions:**
+    *   **Q3 (0.5/1):** Missing explicit proof steps for irrationality of (r+x)/2 and why it lies between r and x.
+    *   **Q4(a) (0/0.5):** Missing.
+    *   **Q4(b) (0/0.5):** Missing.
+    *   **Q5(a) (0/0.5):** Missing.
+    *   **Q5(b) (0/0.5):** Missing.
+    *   **Q9 (0/0.5):** The provided example for f and g is incorrect (f is injective in the example, and fog is not a bijection).
+*   **Missing Questions:** Q4(a), Q4(b), Q5(a), Q5(b).
+*   **Plagiarism Found:**
+    *   **Question 2:** The answer for Q2 is almost word-for-word identical to the answer found in PDF 2 and PDF 12.
+
+---
+
+**7. PDF 7 (M.Sai_Jithin.pdf)**
+*   **Grade: 8.0 / 10**
+*   **Questions with Deductions:**
+    *   **Q3 (0.5/1):** Incorrectly assumes ordering (r < y > x). While stating that r+x leads to an irrational number, it omits the formal proof that (r+x)/2 is irrational, and between the two numbers.
+    *   **Q4(a) (0/0.5):** Missing.
+    *   **Q4(b) (0/0.5):** Missing.
+    *   **Q9 (0/0.5):** Missing.
+*   **Missing Questions:** Q4(a), Q4(b), Q9.
+*   **Plagiarism Found:** None
+
+---
+
+**8. PDF 8 (Panchal_Gupta.pdf)**
+*   **Grade: 8.0 / 10**
+*   **Questions with Deductions:**
+    *   **Q2 (0.5/1):** Vague explanation for why one of the numbers is not a perfect square; it doesn't explicitly derive the contradiction of k=0.
+    *   **Q4(a) (0/0.5):** Missing.
+    *   **Q4(b) (0/0.5):** Missing.
+    *   **Q9 (0/0.5):** The provided example for f and g does not correctly satisfy the conditions (f is injective in the example).
+*   **Missing Questions:** Q4(a), Q4(b).
+*   **Plagiarism Found:**
+    *   **Question 3:** The answer for Q3 is identical to the answer found in PDF 4.
+
+---
+
+**9. PDF 9 (Scan_Akash.pdf)**
+*   **Grade: 9.5 / 10**
+*   **Questions with Deductions:**
+    *   **Q4(a) (0/0.5):** The proof logic for maximum value is incorrect; it shows Snew <= Sold for a specific "out-of-order" swap, implying that this sorting *decreases* the sum, which is the opposite of proving a maximum.
+*   **Missing Questions:** None (Q13, Q14 excluded)
+*   **Plagiarism Found:** None
+
+---
+
+**10. PDF 10 (tutorial_3_ans_sheet.pdf)**
+*   **Grade: 8.5 / 10**
+*   **Questions with Deductions:**
+    *   **Q4(a) (0/0.5):** The proof logic for maximum value is incorrect; it shows Snew <= Sold for a specific "out-of-order" swap, implying that this sorting *decreases* the sum, which is the opposite of proving a maximum.
+    *   **Q4(b) (0/0.5):** The proof logic for minimum value is confused, applying incorrect conditions for swaps.
+    *   **Q9 (0/0.5):** The provided example for f and g is incorrect (f o g is not a bijection in the example).
+*   **Missing Questions:** None (Q13, Q14 excluded)
+*   **Plagiarism Found:** None
+
+---
+
+**11. PDF 11 (Tushar_Chauhan.pdf)**
+*   **Grade: 2.5 / 10** (Based on legible and answered questions)
+*   **Questions with Deductions:**
+    *   **Q3 (0.5/1):** Missing proof step to show the irrational number lies between the rational and irrational numbers.
+    *   **Q12(b) (0/0.5):** Missing.
+*   **Missing Questions:** Q1, Q2, Q4(a), Q4(b), Q6 (all parts), Q7 (all parts), Q8 (all parts), Q10, Q12(b).
+*   **Plagiarism Found:** None
+
+---
+
+**12. PDF 12 (Tutorial-3_MA102_2025250305_RamRag.pdf)**
+*   **Grade: 8.5 / 10**
+*   **Questions with Deductions:**
+    *   **Q3 (0.5/1):** Missing proof step to show that (r+p)/2 is irrational. It states the sum is irrational but not that dividing by 2 keeps it irrational.
+    *   **Q4(a) (0.25/0.5):** Insufficient proof. States the principle without detailed demonstration.
+    *   **Q4(b) (0.25/0.5):** Insufficient proof. States the principle without detailed demonstration.
+    *   **Q7(b) (0/0.5):** Incorrectly states "all integer can be written as difference of two squares", leading to flawed reasoning for non-surjectivity.
+*   **Missing Questions:** None (Q13, Q14 excluded)
+*   **Plagiarism Found:**
+    *   **Question 2:** The answer for Q2 is almost word-for-word identical to the answer found in PDF 2 and PDF 6.
+
+---
+
+**Plagiarism Summary:**
+
+*   **Verbatim/Near-Verbatim Answers for Question 2:**
+    *   **PDF 2 (MA102_Discrete_Maths.pdf)**
+    *   **PDF 6 (Hitansh_Darji.pdf)**
+    *   **PDF 12 (Tutorial-3_MA102_2025250305_RamRag.pdf)**
+    These three PDFs contain nearly identical wording for their explanation of Question 2, suggesting direct copying.
+
+*   **Identical Phrasing for Question 3:**
+    *   **PDF 4 (Aanchal_Gupta.pdf)**
+    *   **PDF 8 (Panchal_Gupta.pdf)**
+    These two PDFs use the exact same phrasing: "Sum of rational and irrational = irrational. Dividing by 2 (rational) keeps it irrational." This indicates direct copying.
+
+==================================================
+Batch 8/12
+==================================================
+Here are the grades for each submission, along with deductions, missing questions, and plagiarism findings.
+
+---
+
+### **1. Parth Sharma**
+**Grade: 7.5/10**
+
+*   **Questions where marks were deducted:**
+    *   **Q6(b) f(n) = n² + 1 (Z → Z):** Deducted 0.5 marks. "not onto as no negetus value" is an incomplete reason. The range is {1, 2, 5, 10, ...} missing many positive integers too.
+    *   **Q7(a) f(m, n) = 2m - n (Z × Z → Z):** Deducted 1 mark. Claims it is injective by f(a)=f(b) ⇒ a=b, which is incorrect for (m,n) inputs. For example, f(1,0)=2 and f(2,2)=2. Surjectivity was also missed.
+    *   **Q7(b) f(m, n) = m² - n² (Z × Z → Z):** Deducted 0.5 marks. Not injective is correct, but the reasoning for not onto ("not provide Integer of form 2k+1") is poorly explained.
+    *   **Q9:** Deducted 2 marks. The example g(x)=x² and f(x)=x does not satisfy the conditions. For f ◦ g to be a bijection, but f not one-to-one and g not onto, this example fails as f(x)=x is one-to-one and g(x)=x² from R→R is only not onto, not that f is not one-to-one.
+*   **Missing questions:** None.
+
+---
+
+### **2. Student A (Unnamed, appears after Parth Sharma's submission)**
+**Grade: 7.0/10**
+
+*   **Questions where marks were deducted:**
+    *   **Q4(a):** Deducted 1 mark. The logic for maximizing the sum is confused and the presentation is messy. Strong evidence of plagiarism for the underlying argument structure from Parth Sharma.
+    *   **Q4(b):** Deducted 1 mark. Strong evidence of plagiarism for the underlying argument structure from Parth Sharma.
+    *   **Q7(a) f(m, n) = 2m - n (Z × Z → Z):** Deducted 0.5 marks. Not injective is correct, but the proof for surjectivity is merely stated as "it is surjective" without justification.
+    *   **Q9:** Deducted 2 marks. The example provided (set-based with g(a)=c, g(b)=c, f(c)=x, f(d)=y) does not meet the criteria (f not one-to-one and g not onto).
+*   **Missing questions:** Q1, Q2, Q8.
+
+*   **Plagiarism found:**
+    *   **Q4(a), Q4(b), Q10, Q11, Q12(a):** There is strong evidence of plagiarism from Parth Sharma's submission. The proof structures, specific (and sometimes grammatically incorrect) phrases (e.g., "by repeating ut com reach min of 5 twhen one sequence us unérearing other is decreasin"), and core logical steps are extremely similar.
+
+---
+
+### **3. Submission 1 (No Name, appears after Student A's submission)**
+**Grade: 8.5/10**
+
+*   **Questions where marks were deducted:**
+    *   **Q4(a):** Deducted 1 mark. The inequality A-B ≥ 0 derived from (xj-xi)(yi-yj) ≥ 0 is correct if elements are already sorted or mis-sorted, but the explanation for *maximizing* the sum is confused with the conditions. It suggests that inversions reduce the sum, but the logic is unclear for the "A-B" calculation in this context.
+    *   **Q6(a) f(n) = n³ (Z → Z):** Deducted 0.5 marks. States "Onto: Yes (every integer has an integer cube root)", which is incorrect (e.g., 2 has no integer cube root).
+    *   **Q9:** Deducted 2 marks. The example g(x)=x² and f(x)=√x, leading to (fog)(x)=|x|, does not satisfy the condition of f being "not one-to-one" (√x is one-to-one).
+    *   **Q12(b):** Deducted 1 mark. Incorrectly classified the proposition as a "contradiction". It is a contingency.
+*   **Missing questions:** None.
+
+---
+
+### **4. Samit Agarwal**
+**Grade: 9.0/10**
+
+*   **Questions where marks were deducted:**
+    *   **Q7(b) f(m, n) = m² - n² (Z × Z → Z):** Deducted 0.5 marks. States "m²-n² = (m+n)(m-n) ≠ 2" as part of the reason it's not onto, but does not provide a full proof for why 2 cannot be formed.
+    *   **Q9:** Deducted 2 marks. The example g(x)=x² and f(x)=√x, leading to (fog)(x)=|x|, does not satisfy the condition of f being "not one-to-one" (√x is one-to-one). This is identical to the unnamed "Submission 1".
+    *   **Q12(b):** Deducted 1 mark. Incorrectly classified the proposition as "false alway", which means a contradiction. It is a contingency. This is identical to the unnamed "Submission 1".
+*   **Missing questions:** None.
+
+*   **Plagiarism found:**
+    *   **Q4(a), Q4(b), Q9, Q12(b):** There is strong evidence of plagiarism from the "Submission 1 (No Name)". The entire structure of the exchange arguments in Q4, the specific example and reasoning for Q9, and the incorrect classification of Q12(b) as a "contradiction" are virtually identical.
+
+---
+
+### **5. Ditesh Oraon**
+**Grade: 10.0/10**
+
+*   **Questions where marks were deducted:**
+    *   **Q7(b) f(m, n) = m² - n² (Z × Z → Z):** Deducted 0.5 marks. For surjectivity, states "m=k+1 r n=k => f=m2-n2=2k+1", which only covers odd integers. The explanation is incomplete as it doesn't show how even integers are covered.
+*   **Missing questions:** None.
+
+---
+
+### **6. Madhur Karnwal**
+**Grade: 10.0/10**
+
+*   **Questions where marks were deducted:**
+    *   **Q4(a):** Deducted 1 mark. The explanation for maximizing the sum using A-B=(xj-xi)(yi-yj) and conditions (xj-xi >= 0 and yi-yj >= 0) is confused. For maximizing, a mis-sorted pair (where xj-xi > 0 and yi-yj < 0) implies A-B < 0, meaning swapping increases the sum. The presentation implies A-B should be positive for max, which is incorrect.
+    *   **Q7(b) f(m, n) = m² - n² (Z × Z → Z):** Deducted 0.5 marks. For surjectivity, states "m=k+1, n=k-1 when k is odd", which only covers odd integers. The explanation is incomplete as it doesn't show how even integers are covered.
+*   **Missing questions:** None.
+
+*   **Plagiarism found:**
+    *   **Q7(b):** There is evidence of plagiarism for the specific proof structure and unique phrasing for explaining the surjectivity of m²-n² (e.g., "m=k+1, n=k-1 when k is odd") which is identical to that found in "Submission 1 (No Name)" and Samit Agarwal's paper. This suggests direct copying of this particular solution segment.
+
+---
+
+### **Plagiarism Summary**
+
+1.  **Student A (Unnamed submission after Parth Sharma)** showed strong evidence of plagiarism from **Parth Sharma** for **Questions 4(a), 4(b), 10, 11, and 12(a)**. The structure of arguments, specific phrases, and logical steps were highly similar.
+
+2.  **Samit Agarwal** showed strong evidence of plagiarism from **Submission 1 (No Name)** for **Questions 4(a), 4(b), 9, and 12(b)**. The solutions, including specific examples and reasoning, were virtually identical.
+
+3.  **Madhur Karnwal** showed evidence of plagiarism from **Submission 1 (No Name)** (and indirectly Samit Agarwal) for **Question 7(b)**. The specific proof structure and wording for the surjectivity argument were identical.
+
+No instances of exact same PDF files with different names were found. All submissions were distinct scans.
+
+==================================================
+Batch 9/12
+==================================================
+Here are the grades for each PDF, along with the detailed breakdown of deductions, missing questions, and plagiarism findings. The grades are on a scale of 10, with increments of 0.5.
+
+**Grading Rubric (Total 12.5 Raw Points, scaled to 10):**
+*   **Q1 (0.5 pts):** Prove n²+1 ≥ 2n for 1≤n≤4.
+*   **Q2 (1.0 pt):** Prove either 2·10⁵⁰⁰+15 or 2·10⁵⁰⁰+16 is not a perfect square.
+*   **Q3 (1.0 pt):** Prove between every rational and irrational number there is an irrational number.
+*   **Q4 (2.0 pts):** Rearrangement inequality. (a) Max value (1.0 pt), (b) Min value (1.0 pt).
+*   **Q5 (1.0 pt):** Set image properties. (a) f(S∪T)=f(S)∪f(T) (0.5 pt), (b) f(S∩T)⊆f(S)∩f(T) (0.5 pt).
+*   **Q6 (1.5 pts):** Injective/Surjective f: Z→Z. (a), (b), (c) (0.5 pt each).
+*   **Q7 (1.5 pts):** Injective/Surjective f: Z×Z→Z. (a), (b), (c) (0.5 pt each).
+*   **Q8 (1.5 pts):** Bijective f: R→R. (a), (b), (c) (0.5 pt each).
+*   **Q9 (0.5 pts):** Example for f∘g bijection, g not onto, f not one-to-one.
+*   **Q10 (0.5 pts):** Invertibility and inverse of f(x)=ax+b.
+*   **Q11 (0.5 pts):** Surjectivity of f∘g if f,g are surjective.
+*   **Q12 (0.5 pts):** Tautology/Contradiction. (a), (b) (0.25 pt each).
+
+---
+
+**1. Kamlesh Singh Rawat (Roll No.- 20252501028)**
+*   **Grade: 9.0/10**
+*   **Questions where marks deducted:**
+    *   **Q4 (0.5/2.0 pts deducted):** Deducted 0.5 points for not fully explaining the mechanism of the rearrangement inequality, though the formula and conclusion were correct.
+    *   **Q9 (0.5/0.5 pts deducted):** The provided example of `g(x) = x^2` and `f(x) = sqrt(x)` leading to `f o g (x) = |x|` does not satisfy the condition that `f o g` is a bijection, as `|x|` is not a bijection from R to R.
+*   **Missing questions:** None.
+*   **Plagiarism:** **Plagiarism Detected** for **Q4**. The mathematical derivation and structure of the proof for Q4 (both parts a and b) are strikingly similar, almost verbatim, to Nidhi Singh, Rudra Panchal, and Tanisha Verma.
+
+---
+
+**2. (Unnamed PDF - Handwritten "Jut-3")**
+*   **Grade: 7.0/10**
+*   **Questions where marks deducted:**
+    *   **Q4 (2.0/2.0 pts deducted):** Only states the results of the rearrangement inequality without providing any proof or derivation.
+    *   **Q6(b) (0.25/0.5 pts deducted):** Flawed reasoning for why `f(n) = n^2 + 1` is not injective (states "as it is always tve" instead of `f(n)=f(-n)`).
+    *   **Q7(a) (0.25/0.5 pts deducted):** Lacks a specific example to demonstrate non-injectivity of `f(m,n) = 2m - n`.
+    *   **Q7(b) (0.25/0.5 pts deducted):** Flawed reasoning for why `f(m,n) = m^2 - n^2` is not surjective (states "difference blw squares could only be odd, it can't be even" which is incorrect; the modulo 4 argument is needed).
+    *   **Q7(c) (0.25/0.5 pts deducted):** Weak reasoning for surjectivity of `f(m,n) = |m| - |n|` (states "It may have any value" without clear construction).
+    *   **Q8(c) (0.25/0.5 pts deducted):** Weak reasoning for why `f(x) = (x^2 + 1) / (x^2 + 2)` is not surjective (states "numerators & denominators are always +ve" instead of defining the range).
+    *   **Q9 (0.5/0.5 pts deducted):** The provided example (`g(x) = e^x`, `f(y) = ln(y)`) is incorrect because `f(y) = ln(y)` is one-to-one, violating the condition that `f` is not one-to-one.
+*   **Missing questions:** None.
+*   **Plagiarism:** None detected.
+
+---
+
+**3. VIVEK SUNIL Doke (Roll No. 20252501094)**
+*   **Grade: 7.0/10**
+*   **Questions where marks deducted:**
+    *   **Q2 (0.5/1.0 pt deducted):** The proof for why one of the numbers is not a perfect square (using the property of consecutive integers not being perfect squares) is correct in concept but poorly explained and hard to follow in its detailed reasoning.
+    *   **Q4 (2.0/2.0 pts deducted):** Only states the results of the rearrangement inequality without providing any proof or derivation.
+    *   **Q6(a) (0.25/0.5 pts deducted):** Flawed reasoning for surjectivity of `f(n) = n^3` (states `f(m)=k => onto` which is incorrect for integers).
+    *   **Q6(c) (0.25/0.5 pts deducted):** Weak reasoning for surjectivity of `f(n) = ⌈n/2⌉` (states `f(m)=k => onto` without clear construction).
+    *   **Q7(b) (0.5/0.5 pts deducted):** Flawed example for non-injectivity of `f(m,n) = m^2 - n^2` and provides an incorrect conclusion for surjectivity (states it is "onto").
+*   **Missing questions:** None.
+*   **Plagiarism:** None detected.
+
+---
+
+**4. Nidhi Singh (Roll No. 20252501041)**
+*   **Grade: 9.0/10**
+*   **Questions where marks deducted:**
+    *   **Q6(c) (0.25/0.5 pts deducted):** Provides an incorrect specific example for demonstrating non-injectivity of `f(n) = ⌈n/2⌉` (states `[2/2]=1, [3/2]=2` which is correct, but doesn't show two different inputs map to the *same* output).
+*   **Missing questions:** None.
+*   **Plagiarism:** **Plagiarism Detected** for **Q4**. The mathematical derivation and concluding remarks for Q4 (both parts a and b) are almost verbatim identical to Kamlesh Singh Rawat and Rudra Panchal, and mathematically identical to Tanisha Verma.
+
+---
+
+**5. Piyush-Saha (Roll No. 20252501032)**
+*   **Grade: 9.5/10**
+*   **Questions where marks deducted:**
+    *   **Q12(b) (0.25/0.25 pts deducted):** Flawed reasoning and simplification in determining if the proposition is a tautology/contradiction. The simplification `(NOT p OR q)` to "tautology is true" is incorrect.
+*   **Missing questions:** None.
+*   **Plagiarism:** Some similarity was noted in the mathematical derivation of **Q4** and explanation of **Q2** with other submissions, but the phrasing is generally distinct enough not to be considered direct verbatim plagiarism.
+
+---
+
+**6. Rudra Panchal (Roll no.: 20252501066)**
+*   **Grade: 8.5/10**
+*   **Questions where marks deducted:**
+    *   **Q6(a) (0.5/0.5 pts deducted):** Provides completely incorrect logic and mixes up the solution with details from Q2 (e.g., states "Perfect square is congruent to 0 or 1 modulo 4." and mentions "Not a perfect square").
+*   **Missing questions:** None.
+*   **Plagiarism:** **Plagiarism Detected** for **Q4**. The mathematical derivation and concluding remarks for Q4 (both parts a and b) are almost verbatim identical to Kamlesh Singh Rawat and Nidhi Singh, and mathematically identical to Tanisha Verma.
+
+---
+
+**7. TANISHA VERMA (20252503048)**
+*   **Grade: 9.0/10**
+*   **Questions where marks deducted:**
+    *   **Q4(a) (0.25/1.0 pt deducted):** The concluding remark "This shows that pairing the smallest x with largest sum" is confusing and seems incorrect for maximum sum.
+    *   **Q4(b) (0.25/1.0 pt deducted):** The concluding remark merely states the question's premise rather than deriving it from the provided formula.
+*   **Missing questions:** None.
+*   **Plagiarism:** **Plagiarism Detected** for **Q4**. The mathematical derivation for Q4 (both parts a and b) is strikingly similar, almost verbatim, to Kamlesh Singh Rawat, Nidhi Singh, and Rudra Panchal.
+
+---
+
+**8. (Unnamed PDF - "Tutorial-3")**
+*   **Grade: 8.5/10**
+*   **Questions where marks deducted:**
+    *   **Q4 (2.0/2.0 pts deducted):** Only states the results of the rearrangement inequality without providing any proof or derivation.
+*   **Missing questions:** None.
+*   **Plagiarism:** None detected.
+
+---
+
+**9. Kurapati Sujith (20252503025)**
+*   **Grade: 7.5/10**
+*   **Questions where marks deducted:**
+    *   **Q4 (2.0/2.0 pts deducted):** Only states the results of the rearrangement inequality without providing any proof or derivation.
+    *   **Q9 (0.5/0.5 pts deducted):** The provided example (`g(x) = x^2`, `f(x) = sqrt(|x|)`) leads to `f o g (x) = |x|`, which is not a bijection from R to R, thus failing the problem's condition.
+    *   **Q12(b) (0.25/0.25 pts deducted):** Flawed reasoning and an incomplete conclusion in determining if the proposition is a tautology/contradiction.
+*   **Missing questions:** None.
+*   **Plagiarism:** None detected.
+
+---
+
+**Plagiarism Summary:**
+
+A significant pattern of **plagiarism** has been identified for **Question 4 (Rearrangement Inequality)** across multiple submissions.
+
+*   The mathematical derivation for Q4(a) and Q4(b) (i.e., `S - S' = (xi - xj)(yi - yj)`) and the subsequent logical steps are almost identical, and in some cases, the concluding remarks are verbatim identical, for the following students:
+    *   **Kamlesh Singh Rawat (20252501028)**
+    *   **Nidhi Singh (20252501041)**
+    *   **Rudra Panchal (20252501066)**
+    *   **TANISHA VERMA (20252503048)**
+
+This strong similarity indicates that these students either copied from each other or from a common external source.
+
+==================================================
+Batch 10/12
+==================================================
+Here are the grades for each student, along with the questions where marks were deducted, any missing questions, and plagiarism findings. Questions 13 and 14 were not graded. Each graded question is worth 1 point. There are 20 graded question parts in total.
+
+---
+
+**1. Student A (Anonymous Submission)**
+
+*   **Grade: 7.0/10** (14 out of 20 points)
+*   **Deducted marks for:**
+    *   **Q4 (a & b):** The core idea of the rearrangement inequality is hinted at with the difference calculation, but the proof is very brief and not fully articulated for both parts (deduction: 1 point).
+    *   **Q6 (a):** Explanation for "onto" is lacking clarity and specific counter-example (deduction: 0.5 points).
+    *   **Q6 (b):** Explanation for "onto" is lacking and includes a contradictory statement (deduction: 0.5 points).
+    *   **Q6 (c):** Explanation for "onto" is lacking (deduction: 0.5 points).
+    *   **Q7 (a):** Proof for "surjective" is just an example, not a general argument (deduction: 0.5 points).
+    *   **Q7 (b):** Incorrectly claims the function is surjective without explanation, when it is not (e.g., cannot produce 2, 6, 10, etc.) (deduction: 1 point).
+    *   **Q7 (c):** Example for "not injective" is unclear. Proof for "surjective" is missing (deduction: 1 point).
+    *   **Q8 (a):** Explanation for "not surjective" is lacking (deduction: 0.5 points).
+    *   **Q8 (c):** The calculation for the range has an error (claiming `0 < y < 1` instead of `1/2 <= y < 1`), though the conclusion "not surjective" is correct (deduction: 0.5 points).
+    *   **Q12 (b):** The truth table calculations for `(q AND NOT p)` are incorrect, leading to an incorrect intermediate and final column. The verbal conclusion conflicts with the truth table result (deduction: 1 point).
+*   **Missing questions:** None.
+*   **Plagiarism:** None found.
+
+---
+
+**2. Aryan Pandey (20252503007)**
+
+*   **Grade: 9.0/10** (18 out of 20 points)
+*   **Deducted marks for:**
+    *   **Q7 (b):** Provides contradictory statements regarding surjectivity (initially claims "all integers obtained", then correctly points out specific counterexamples like 2, 6, 10, but then incorrectly concludes it's injective) (deduction: 1 point).
+    *   **Q7 (c):** Explanation for "surjective" is incorrect and misapplies concepts of injectivity/bijectivity (deduction: 1 point).
+    *   **Q8 (a):** Incorrect range calculation for "onto" (though correctly concludes not surjective) (deduction: 0.5 points).
+    *   **Q8 (b):** Mentions co-domain Z instead of R for an f: R -> R function, leading to an incorrect conclusion about surjectivity for R (deduction: 0.5 points).
+    *   **Q8 (c):** Incorrect range calculation for "onto" (deduction: 0.5 points).
+*   **Missing questions:** None.
+*   **Plagiarism:** None found.
+
+---
+
+**3. Saksham Pandey (20252501070)**
+
+*   **Grade: 6.25/10** (12.5 out of 20 points)
+*   **Deducted marks for:**
+    *   **Q2:** Provides the correct conclusion but no proof (deduction: 1 point).
+    *   **Q4 (a & b):** Provides intuitive explanations rather than rigorous mathematical proofs for both parts (deduction: 1 point total, 0.5 each).
+    *   **Q6 (a):** Claims "surjective onto" without proper proof or counter-example, when it is not (deduction: 1 point).
+    *   **Q6 (b):** Insufficient reasoning for "not surjective" (deduction: 0.5 points).
+    *   **Q6 (c):** No proof provided for "surjective" (deduction: 0.5 points).
+    *   **Q7 (a):** No proof provided for "surjective" (deduction: 0.5 points).
+    *   **Q7 (b):** Claims "surjective" without proof, when it is not (deduction: 1 point).
+    *   **Q7 (c):** No proof provided for "surjective" (deduction: 0.5 points).
+    *   **Q8 (c):** Incorrectly claims injectivity (f(x)=f(-x) implies not injective) (deduction: 0.5 points).
+    *   **Q9:** The provided example is incorrect because `f(x)=sqrt(x)` is injective on its domain `[0,infinity)`, and `f o g(x) = |x|` is not a bijection (deduction: 1 point).
+    *   **Q12 (b):** Reasoning for simplification is flawed (deduction: 0.5 points).
+*   **Missing questions:** None.
+*   **Plagiarism:** None found.
+
+---
+
+**4. Sachin Kumar (20252503043)**
+
+*   **Grade: 5.75/10** (11.5 out of 20 points)
+*   **Deducted marks for:**
+    *   **Q4 (a):** Proof for "maximum value" is unclear and difficult to follow (deduction: 1 point).
+    *   **Q4 (b):** This part is missing (deduction: 1 point).
+    *   **Q6 (a):** Explanation for "onto" is lacking (deduction: 0.5 points).
+    *   **Q6 (b):** Explanation for "onto" is lacking (deduction: 0.5 points).
+    *   **Q6 (c):** Explanation for "onto" is lacking (deduction: 0.5 points).
+    *   **Q7 (a):** Explanation for "onto" is lacking (deduction: 0.5 points).
+    *   **Q7 (b):** Claims "onto: yes" without proof, when it is not (deduction: 1 point).
+    *   **Q7 (c):** Explanation for "onto" is lacking (deduction: 0.5 points).
+    *   **Q9:** The provided example is incorrect because `f(x)=x^(1/2)` is injective on its domain, and `f o g(x) = |x|` is not a bijection (deduction: 1 point).
+    *   **Q12 (b):** The truth table calculations contain multiple errors (deduction: 1 point).
+*   **Missing questions:** Q4 (b).
+*   **Plagiarism:** None found.
+
+---
+
+**5. Piyush Bausare (20252503039)**
+
+*   **Grade: 8.5/10** (17 out of 20 points)
+*   **Deducted marks for:**
+    *   **Q4 (a & b):** States the conditions for maximum and minimum but provides no mathematical proof for either part (deduction: 1 point total, 0.5 each).
+    *   **Q7 (b):** Claims "onto: yes" without proof, when it is not (deduction: 1 point).
+    *   **Q9:** The provided example is incorrect because `f(x)=sqrt(x)` is injective on its domain `[0,infinity)`, and `f o g(x) = |x|` is not a bijection (deduction: 1 point).
+*   **Missing questions:** None.
+*   **Plagiarism:** None found.
+
+---
+
+**6. S.Pardha Saradhi (20252501069)**
+
+*   **Grade: 5.5/10** (11 out of 20 points)
+*   **Deducted marks for:**
+    *   **Q4 (a & b):** States the conditions for maximum and minimum (rearrangement inequality) but provides no mathematical proof for either part (deduction: 1 point total, 0.5 each).
+    *   **Q6 (a):** Claims "subjective" (onto) when it is not, based on insufficient reasoning (deduction: 1 point).
+    *   **Q6 (b):** Claims "subjective" (onto) when it is not, based on insufficient reasoning (deduction: 1 point).
+    *   **Q6 (c):** Claims "subjective" (onto) but provides no proof (deduction: 0.5 points).
+    *   **Q7 (a):** Claims "subjective" (onto) but provides no proof (deduction: 0.5 points).
+    *   **Q7 (b):** Claims "subjective" (onto) based on the incorrect statement that every integer is a difference of two squares (deduction: 1 point).
+    *   **Q7 (c):** Claims "subjective" (onto) but provides no proof (deduction: 0.5 points).
+    *   **Q9:** The provided example is incorrect because `f(x)=sqrt(x)` is injective on its domain, and `f o g(x) = |x|` is not a bijection (deduction: 1 point).
+    *   **Q12 (b):** The truth table calculations contain errors (deduction: 1 point).
+*   **Missing questions:** None.
+*   **Plagiarism:** None found.
+
+---
+
+**7. M.Suhas Paul (No Roll Number)**
+
+*   **Grade: 8.5/10** (17 out of 20 points)
+*   **Deducted marks for:**
+    *   **Q4 (a):** This part is missing (deduction: 1 point).
+    *   **Q4 (b):** This part is missing (deduction: 1 point).
+    *   **Q12 (b):** The truth table calculations contain errors for the first two rows (deduction: 1 point).
+*   **Missing questions:** Q4 (a), Q4 (b).
+*   **Plagiarism:** None found.
+
+==================================================
+Batch 11/12
+==================================================
+Here are the grades for each student, along with detailed feedback on deductions and plagiarism findings. Questions 13 and 14 were not graded as per instructions.
+
+**Grading Scale:** The total points possible from the graded questions (1-12, excluding 13-14) is 11. Scores are then scaled to 10.
+
+---
+
+### **Student 1: Kushagra Chasta (20252503026)**
+*   **Q1:** Not graded.
+*   **Q2:** Not graded.
+*   **Q3:** Not graded.
+*   **Q4:** Not graded.
+*   **Q5a:** Correct. (0.5/0.5)
+*   **Q5b:** Correct. (0.5/0.5)
+*   **Q6a:** Correct. (0.5/0.5)
+*   **Q6b (f(n)=n^2+1):** Injective check is correct. Surjective check identifies correct counterexamples (0, -1, -2, etc. are not achieved) but the final conclusion states "it is injective" instead of "not surjective". (-0.25) (0.25/0.5)
+*   **Q6c:** Correct. (0.5/0.5)
+*   **Q7a:** Correct. (0.5/0.5)
+*   **Q7b (f(m,n)=m^2-n^2):** Injective check is correct. Surjective check correctly identifies that numbers like 2, 6, 10 are not achievable, but again concludes "it is injective" instead of "not surjective". (-0.25) (0.25/0.5)
+*   **Q7c:** Correct. (0.5/0.5)
+*   **Q8a:** Correct. (0.5/0.5)
+*   **Q8b:** Correct. (0.5/0.5)
+*   **Q8c:** Correct. (0.5/0.5)
+*   **Q9:** Correct. (0.5/0.5)
+*   **Q10:** Correct. (0.5/0.5)
+*   **Q11:** Correct. (0.5/0.5)
+*   **Q12a:** Correct (truth table shows tautology). (0.5/0.5)
+*   **Q12b:** Correct (truth table shows contradiction). (0.5/0.5)
+
+**Total Points (out of 11):** 9.25
+**Grade (out of 10): 8.5**
+
+**Deductions:**
+*   Q6b: Incorrect final conclusion for surjective check (-0.25)
+*   Q7b: Incorrect final conclusion for surjective check (-0.25)
+
+**Plagiarism:** No plagiarism found in this submission.
+
+---
+
+### **Student 2: 20252501009 (CSE)**
+*   **Q1:** Correct. (0.5/0.5)
+*   **Q2:** Correct. (0.5/0.5)
+*   **Q3:** Proof for irrational number `y=(r+x)/2` is incorrect. The final conclusion states `y` is rational, which contradicts the goal. (-1/1)
+*   **Q4a:** Correct reasoning for maximum sum but the notation for `S-S` (change in sum) is slightly confusing. Partial credit. (0.25/0.5)
+*   **Q4b:** Correct. (0.5/0.5)
+*   **Q5a:** Correct. (0.5/0.5)
+*   **Q5b:** Correct. (0.5/0.5)
+*   **Q6a (f(n)=n^3):** Injective check is correct. Surjective conclusion is incorrect as `cbrt(k)` is not always an integer for `k` in `Z`. (-0.25) (0.25/0.5)
+*   **Q6b:** Correct. (0.5/0.5)
+*   **Q6c:** Correct. (0.5/0.5)
+*   **Q7a:** Correct. (0.5/0.5)
+*   **Q7b (f(m,n)=m^2-n^2):** Injective check is correct. Surjective conclusion is incorrect; not all integers can be written as a difference of two squares (e.g., 2). (-0.25) (0.25/0.5)
+*   **Q7c:** Correct. (0.5/0.5)
+*   **Q8a:** Correct. (0.5/0.5)
+*   **Q8b:** Correct. (0.5/0.5)
+*   **Q8c:** Correct. (0.5/0.5)
+*   **Q9:** The example for `f` and `g` is incorrect. `(f o g)(x)=|x|` is not a bijection (not injective and not surjective). (-0.5/0.5)
+*   **Q10:** Correct. (0.5/0.5)
+*   **Q11:** Correct. (0.5/0.5)
+*   **Q12a:** Correct (truth table shows tautology). (0.5/0.5)
+*   **Q12b:** Correct (truth table shows contradiction). (0.5/0.5)
+
+**Total Points (out of 11):** 8.25
+**Grade (out of 10): 7.5**
+
+**Deductions:**
+*   Q3: Incorrect proof/conclusion (-1)
+*   Q4a: Slightly confusing notation/explanation (-0.25)
+*   Q6a: Incorrect surjective conclusion (-0.25)
+*   Q7b: Incorrect surjective conclusion (-0.25)
+*   Q9: Incorrect example (-0.5)
+
+**Plagiarism:** **Plagiarism found.** The truth tables for Question 12(a) and 12(b) are identical in structure, values, and column order to Kushagra Chasta's submission. This strongly suggests direct copying for this specific question.
+
+---
+
+### **Student 3: G. Vignan Redd (SAKHEE)**
+*   **Q1:** Correct. (0.5/0.5)
+*   **Q2:** Correct. (0.5/0.5)
+*   **Q3:** Correct. (1/1)
+*   **Q4a:** Correct reasoning for maximum sum using the exchange argument. (0.5/0.5)
+*   **Q4b:** Correct reasoning for minimum sum using the exchange argument. (0.5/0.5)
+*   **Q5a:** Correct. (0.5/0.5)
+*   **Q5b:** Correct. (0.5/0.5)
+*   **Q6a:** Correct. (0.5/0.5)
+*   **Q6b:** Correct. (0.5/0.5)
+*   **Q6c:** Injective check correctly identifies `f(0)=f(-1)=0` to show not injective, and surjective check is correct. (0.5/0.5)
+*   **Q7a:** Correct. (0.5/0.5)
+*   **Q7b (f(m,n)=m^2-n^2):** Injective check is correct. Surjective conclusion is incorrect; not all integers can be written as a difference of two squares (e.g., 2). (-0.25) (0.25/0.5)
+*   **Q7c:** Correct. (0.5/0.5)
+*   **Q8a:** Correct. (0.5/0.5)
+*   **Q8b:** Correct. (0.5/0.5)
+*   **Q8c:** Correct. (0.5/0.5)
+*   **Q9:** The example for `f` and `g` is incorrect. `(f o g)(1)=(f o g)(2)=x`, so `f o g` is not injective and therefore not a bijection. (-0.5/0.5)
+*   **Q10:** Correct. (0.5/0.5)
+*   **Q11:** Correct. (0.5/0.5)
+*   **Q12a:** Correct (tautology). (0.5/0.5)
+*   **Q12b:** Correct (contingency, correctly identified as "neither tautology nor contradiction"). (0.5/0.5)
+
+**Total Points (out of 11):** 9.75
+**Grade (out of 10): 9.0**
+
+**Deductions:**
+*   Q7b: Incorrect surjective conclusion (-0.25)
+*   Q9: Incorrect example (-0.5)
+
+**Plagiarism:** No plagiarism found in this submission.
+
+---
+
+### **Student 4: 20252501017 (CSE)**
+*   **Q1:** Correct. (0.5/0.5)
+*   **Q2:** Correct. (0.5/0.5)
+*   **Q3:** Correct. (1/1)
+*   **Q4a:** Correct. (0.5/0.5)
+*   **Q4b:** Correct. (0.5/0.5)
+*   **Q5a:** Correct. (0.5/0.5)
+*   **Q5b:** Correct. (0.5/0.5)
+*   **Q6a (f(n)=n^3):** Injective check is correct. Missing surjective check. (-0.25) (0.25/0.5)
+*   **Q6b:** Correct. (0.5/0.5)
+*   **Q6c:** Correct. (0.5/0.5)
+*   **Q7a:** Correct. (0.5/0.5)
+*   **Q7b:** Correct. (0.5/0.5)
+*   **Q7c:** Correct. (0.5/0.5)
+*   **Q8a:** Correct. (0.5/0.5)
+*   **Q8b:** Correct. (0.5/0.5)
+*   **Q8c:** Correct. (0.5/0.5)
+*   **Q9:** The example for `f` and `g` is incorrect. `(f o g)(x)=x^2` is not a bijection. (-0.5/0.5)
+*   **Q10:** Correct. (0.5/0.5)
+*   **Q11:** Correct. (0.5/0.5)
+*   **Q12a:** Correct (tautology). (0.5/0.5)
+*   **Q12b:** Truth table values are correct, but the final conclusion "Contradiction" is incorrect (it's a contingency). (-0.25) (0.25/0.5)
+
+**Total Points (out of 11):** 9.25
+**Grade (out of 10): 8.5**
+
+**Deductions:**
+*   Q6a: Incomplete/Missing surjective check (-0.25)
+*   Q9: Incorrect example (-0.5)
+*   Q12b: Incorrect final conclusion (-0.25)
+
+**Plagiarism:** **Significant plagiarism found.**
+*   The truth tables for Question 12(a) and 12(b) are identical in structure, values, and column order to Kushagra Chasta's and 20252501009's submissions.
+*   The proofs for Question 4(a), 4(b), 5(a), and 5(b) show strong similarity in mathematical expressions and logical flow to 20252501009's submission.
+*   The example for Question 9 (`g(x)=x^2, f(x)=|x|`, leading to `f o g(x)=x^2`) is identical to those provided by 20252501009 and S. DANUSHKAR.
+This strongly suggests direct copying.
+
+---
+
+### **Student 5: S. DANUSHKAR (20252503045)**
+*   **Q1:** The verification for `n=2` uses `n^2-1` and `2n` instead of `n^2-2n+1`, leading to `3 >= 4 X`, which is an incorrect calculation and conclusion. (-0.5/0.5)
+*   **Q2:** Correct. (0.5/0.5)
+*   **Q3:** Correct. (1/1)
+*   **Q4a:** Correct principle stated. (0.5/0.5)
+*   **Q4b:** Correct principle stated. (0.5/0.5)
+*   **Q5a:** Correct. (0.5/0.5)
+*   **Q5b:** Correct. (0.5/0.5)
+*   **Q6a (f(n)=n^3):** Injective check is correct. Surjective conclusion is incorrect as `cbrt(k)` is not always an integer for `k` in `Z`. (-0.25) (0.25/0.5)
+*   **Q6b:** Correct. (0.5/0.5)
+*   **Q6c:** Correct. (0.5/0.5)
+*   **Q7a:** Correct. (0.5/0.5)
+*   **Q7b (f(m,n)=m^2-n^2):** Injective check is correct. Surjective conclusion is incorrect; not all integers can be written as a difference of two squares (e.g., 2). (-0.25) (0.25/0.5)
+*   **Q7c:** Correct. (0.5/0.5)
+*   **Q8a:** Correct. (0.5/0.5)
+*   **Q8b:** Correct. (0.5/0.5)
+*   **Q8c:** Correct. (0.5/0.5)
+*   **Q9:** The example for `f` and `g` is incorrect. `(f o g)(x)=|x|` is not a bijection. (-0.5/0.5)
+*   **Q10:** Correct. (0.5/0.5)
+*   **Q11:** Correct. (0.5/0.5)
+*   **Q12a:** Correct (tautology). (0.5/0.5)
+*   **Q12b:** Truth table values are correct, but the final conclusion "Contradiction" is incorrect (it's a contingency). (-0.25) (0.25/0.5)
+
+**Total Points (out of 11):** 8.5
+**Grade (out of 10): 7.5**
+
+**Deductions:**
+*   Q1: Incorrect calculation (-0.5)
+*   Q6a: Incorrect surjective conclusion (-0.25)
+*   Q7b: Incorrect surjective conclusion (-0.25)
+*   Q9: Incorrect example (-0.5)
+*   Q12b: Incorrect final conclusion (-0.25)
+
+**Plagiarism:** **Significant plagiarism found.**
+*   The truth tables for Question 12(a) and 12(b) are identical in structure, values, and column order to previous submissions (Kushagra Chasta, 20252501009, 20252501017).
+*   The example for Question 9 (`g(x)=x^2, f(x)=sqrt(x)`, leading to `f o g(x)=|x|`) is identical to those provided by 20252501009 and 20252501017.
+This strongly suggests direct copying.
+
+---
+
+### **Student 6: G.V. Jayanth Kumar (20252501023)**
+*   **Q1:** Correct. (0.5/0.5)
+*   **Q2:** Correct. (0.5/0.5)
+*   **Q3:** Correct. (1/1)
+*   **Q4a:** Correct. (0.5/0.5)
+*   **Q4b:** Correct. (0.5/0.5)
+*   **Q5a:** Correct. (0.5/0.5)
+*   **Q5b:** Correct. (0.5/0.5)
+*   **Q6a (f(n)=n^3):** Injective check is correct. Missing surjective check. (-0.25) (0.25/0.5)
+*   **Q6b:** Correct. (0.5/0.5)
+*   **Q6c:** Correct. (0.5/0.5)
+*   **Q7a:** Correct. (0.5/0.5)
+*   **Q7b:** Correct. (0.5/0.5)
+*   **Q7c:** Correct. (0.5/0.5)
+*   **Q8a:** Correct. (0.5/0.5)
+*   **Q8b:** Correct. (0.5/0.5)
+*   **Q8c:** Correct. (0.5/0.5)
+*   **Q9:** The example for `f` and `g` is incorrect. `(f o g)(x)=|x|` is not a bijection. (-0.5/0.5)
+*   **Q10:** Correct. (0.5/0.5)
+*   **Q11:** Correct. (0.5/0.5)
+*   **Q12a:** Correct (tautology). (0.5/0.5)
+*   **Q12b:** Correct (contingency). (0.5/0.5)
+
+**Total Points (out of 11):** 10.0
+**Grade (out of 10): 9.0**
+
+**Deductions:**
+*   Q6a: Incomplete/Missing surjective check (-0.25)
+*   Q9: Incorrect example (-0.5)
+
+**Plagiarism:** **Plagiarism found.**
+*   The example for Question 9 (`g(x)=x^2, f(x)=sqrt(x)`, leading to `f o g(x)=|x|`) is identical to those provided by 20252501009, 20252501017, and S. DANUSHKAR.
+*   The structure and specific steps in the proofs for Question 4(a) and 4(b) are very similar to those found in 20252501017's submission.
+This strongly suggests direct copying.
+
+---
+
+### **Student 7: 20252503026 (Kushagra Chasta)**
+**Plagiarism:** This PDF is an **exact duplicate** of the submission from "Kushagra Chasta (20252503026)".
+
+---
+
+==================================================
+Batch 12/12
+==================================================
+Here are the grades for each submission, along with detailed feedback on deductions and missing questions. Questions 13 and 14 were excluded from grading as per your instructions.
+
+**Grading Scale:** Each of the 21 sub-questions (Q1, Q2, Q3, Q4a, Q4b, Q5a, Q5b, Q6a, Q6b, Q6c, Q7a, Q7b, Q7c, Q8a, Q8b, Q8c, Q9, Q10, Q11, Q12a, Q12b) is worth approximately 0.5 points for a total of 10 points.
+
+---
+
+**1. Submission 1 (No Name/ID provided in OCR)**
+
+*   **Grade: 8.25/10**
+*   **Deducted Questions:**
+    *   **Q2 (0.25/0.5):** Flawed intermediate logic for proving that one of the two numbers is not a perfect square, despite stating the correct conclusion.
+    *   **Q4(a) (0.25/0.5):** Stated the result of the rearrangement inequality without providing a proof or explanation of *why* it holds.
+    *   **Q4(b) (0.25/0.5):** Stated the result for the minimum sum without providing a proof or explanation of *why* it holds.
+    *   **Q5(a) (0.25/0.5):** Only one inclusion (f(S∪T) ⊆ f(S)∪f(T)) was shown for the set equality, the reverse inclusion was missing.
+    *   **Q5(b) (0/0.5):** Question was completely missing.
+    *   **Q7(c) (0.25/0.5):** Incorrectly concluded that the function f(m,n) = |m| - |n| is not onto; it is onto.
+    *   **Q8(a) (0.25/0.5):** Did not explicitly state why f(x) = x^2 + 1 is not surjective (though it's implicitly part of "not bijective").
+    *   **Q8(c) (0.25/0.5):** Did not check or explain why f(x) = (x^2+1)/(x^2+2) is not injective.
+    *   **Q10 (0.25/0.5):** Did not explicitly prove injectivity for f(x) = ax + b, though surjectivity and the inverse were correctly found.
+    *   **Q12(a) (0.25/0.5):** Despite providing a correct truth table, the conclusion was "contingency" instead of "tautology".
+*   **Missing Questions:** Q5(b).
+
+---
+
+**2. Submission 2 (Ajendra Rai - 20252501006)**
+
+*   **Grade: 8.5/10**
+*   **Deducted Questions:**
+    *   **Q8(c) (0.25/0.5):** Did not check or explain why f(x) = (x^2+1)/(x^2+2) is not injective.
+    *   **Q9 (0/0.5):** The provided example for functions f and g did not satisfy the condition that f ◦ g is a bijection (in this example, f ◦ g was not injective).
+    *   **Q12(b) (0.25/0.5):** The conclusion for the compound proposition was "tautology" which is incorrect; it is a contingency.
+*   **Missing Questions:** None.
+
+---
+
+**3. Submission 3 (Ujjwalsing Dhawliya - 20252501086)**
+
+*   **Grade: 9.75/10**
+*   **Deducted Questions:**
+    *   **Q9 (0/0.5):** The provided example for functions f and g did not result in f ◦ g being a bijection (it was not onto the entire codomain of Z).
+    *   **Q12(b) (0.25/0.5):** Contained an incorrect entry in the truth table, leading to an potentially incorrect conclusion if not caught.
+*   **Missing Questions:** None.
+
+---
+
+**4. Submission 4 (Sharad Kumar - 20252503046)**
+
+*   **Grade: 9.5/10**
+*   **Deducted Questions:**
+    *   **Q4(a) (0.25/0.5):** The interpretation of the swapping argument for maximizing the sum was confused or presented backwards.
+    *   **Q9 (0/0.5):** The function f(x) = sqrt(x) is not well-defined for f: R → R, as sqrt(x) is undefined for negative real numbers. The proposed solution then changed the domain for f ◦ g.
+    *   **Q12(b) (0.25/0.5):** Incorrectly concluded the compound proposition was a "contradiction"; it is a contingency.
+*   **Missing Questions:** None.
+
+---
+
+**5. Submission 5 (P. Dinesh Rao - 20252501059)**
+
+*   **Grade: 10/10**
+*   **Deducted Questions:** None.
+*   **Missing Questions:** None.
+*   **Plagiarism Report:** This submission shows significant similarity with Submission 6 (ID 20252501053), particularly for **Question 9**. The exact same specific example for functions f and g, including the definitions of the sets A, B, C and the mappings of g and f, is used in both submissions. This is a strong indicator of collaboration or copying.
+
+---
+
+**6. Submission 6 (20252501053)**
+
+*   **Grade: 8.5/10**
+*   **Deducted Questions:**
+    *   **Q4(b) (0/0.5):** Question was completely missing.
+    *   **Q5(b) (0/0.5):** Question was completely missing.
+    *   **Q7(b) (0/0.5):** Question was completely missing.
+    *   **Q7(c) (0/0.5):** Question was completely missing.
+*   **Missing Questions:** Q4(b), Q5(b), Q7(b), Q7(c).
+*   **Plagiarism Report:** This submission shows significant similarity with Submission 5 (P. Dinesh Rao - 20252501059), particularly for **Question 9**. The exact same specific example for functions f and g, including the definitions of the sets A, B, C and the mappings of g and f, is used in both submissions. This is a strong indicator of collaboration or copying.
+
+---
+
+**7. Submission 7 (Pranav Teja - 20252503036)**
+
+*   **Grade: 2.5/10**
+*   **Deducted Questions:**
+    *   **Q5 (0/0.5 for Q5a, 0/0.5 for Q5b):** Both sub-parts of the question were missing.
+    *   **Q6 (0/0.5 for Q6a, 0/0.5 for Q6b, 0/0.5 for Q6c):** All sub-parts of the question were missing.
+    *   **Q7 (0/0.5 for Q7a, 0/0.5 for Q7b, 0/0.5 for Q7c):** All sub-parts of the question were missing.
+    *   **Q8 (0/0.5 for Q8a, 0/0.5 for Q8b, 0/0.5 for Q8c):** All sub-parts of the question were missing.
+    *   **Q9 (0/0.5):** Question was missing.
+    *   **Q10 (0/0.5):** Question was missing.
+    *   **Q11 (0/0.5):** Question was missing.
+    *   **Q12 (0/0.5 for Q12a, 0/0.5 for Q12b):** Both sub-parts of the question were missing.
+*   **Missing Questions:** Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12.

@@ -1,0 +1,223 @@
+
+
+==================================================
+Batch 2/3
+==================================================
+Here are the grades for the attached PDF assignments:
+
+---
+
+Student: MA-102A4 20252503022.pdf
+   Roll No: 20252503022
+   Name: Not found in PDF
+   Marks: 8.75/10
+   Reason for deduction: Minor confusions in relations properties and rigor in one countability proof.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Antisymmetry for (d) and (f) was confused; symmetry for (f) was also unclear.
+       Q6 : Antisymmetry for (a) was confused.
+       Q8 : The proof of countability of rational numbers could have been more explicit about the enumeration strategy.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: MA102_TUT4-20252503015.pdf
+   Roll No: 20252503015
+   Name: Devam Shah
+   Marks: 10.0/10
+   Reason for deduction: None
+
+Detailed Feedback:
+   Questions where marks were deducted: None
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: MA102_Tut-4.pdf
+   Roll No: 20252501090
+   Name: Vaghela Rushit
+   Marks: 9.75/10
+   Reason for deduction: Incorrect identification for some relation properties and minor lack of rigor in some countability proofs.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5 : Transitivity for (a) was incorrectly identified; Antisymmetry for (d) was incorrectly identified.
+       Q8 : The proof of countability of rational numbers could have been more precise regarding the union step.
+       Q10 : The bijection from P(N) to (0,1) using binary expansions did not explicitly address non-unique representations for full rigor.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: Ma102ass4.pdf
+   Roll No: 20252501094
+   Name: Vivek Sunil Doke
+   Marks: 8.9/10
+   Reason for deduction: One proof was too brief, lacking formal details.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : The proof for a subset of a countable set being countable was too brief and lacked formal detail on mapping.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: Math tut 4 20252501077.pdf
+   Roll No: 20252501077
+   Name: Shree Ramyadar
+   Marks: 9.5/10
+   Reason for deduction: Fragmented explanation for one proof and poor notation/explanation in another.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q3 : The explanation for the countability of B from an onto function was fragmented.
+       Q10 : The bijection from P(N) to (0,1) needs to address non-unique binary representations for full rigor.
+       Q11(i) : The explanation and notation for the bijection between R and (0,1) was unclear.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: Maths tut 4.pdf
+   Roll No: Maths tut 4.pdf
+   Name: Unknown Student
+   Marks: 10.0/10
+   Reason for deduction: None
+
+Detailed Feedback:
+   Questions where marks were deducted: None
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: Share 20252503044_MA_Tut_4.pdf
+   Roll No: 20252503044
+   Name: Not found in PDF
+   Marks: 9.9/10
+   Reason for deduction: Minor lack of rigor in one countability proof.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q10 : The bijection from P(N) to (0,1) needs to address non-unique binary representations for full rigor.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: Tut_4_20252503007.pdf
+   Roll No: 20252503007
+   Name: Aryan Pandey
+   Marks: 9.9/10
+   Reason for deduction: Minor lack of rigor in one countability proof.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q10 : The bijection from P(N) to (0,1) needs to address non-unique binary representations for full rigor.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+Student: Tutorial 4 maths.pdf
+   Roll No: Tutorial 4 maths.pdf
+   Name: Unknown Student
+   Marks: 4.65/10
+   Reason for deduction: Numerous incomplete proofs, missing reasoning, incorrect statements, and missing sub-questions.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : Incomplete proof, only covers finite sets.
+       Q2 : Correct statement but no proof provided.
+       Q3 : Lack of formal proof for the countability of B.
+       Q4 : Vague explanation and missing crucial steps for countability of solutions.
+       Q5 : Only some properties were listed for each part; part (f) was missing.
+       Q6 : Only one property was listed for each part.
+       Q8 : Completely incorrect solution, appeared to be a copy-paste error from another question.
+       Q9 : Correct answers but no reasoning provided for any part.
+       Q10 : The bijection from P(N) to (0,1) needs to address non-unique binary representations for full rigor.
+       Q11 : Fundamental misunderstanding of cardinality notation.
+   Missing questions: Q5(f)
+   Plagiarism: Possible copy-paste error for Q8 (content seemed related to Q10).
+
+---
+
+Student: Tutorial-4 (13 Feb 2026 at 22_54).pdf
+   Roll No: 20252503039
+   Name: Piyush Kausara
+   Marks: 9.9/10
+   Reason for deduction: Minor lack of rigor in one countability proof.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q10 : The bijection from P(N) to (0,1) needs to address non-unique binary representations for full rigor.
+   Missing questions: None
+   Plagiarism: None
+
+---
+
+==================================================
+Batch 3/3
+==================================================
+Here are the grades for the submitted assignments:
+
+---
+Student: Tutorial-4 20252501086.pdf
+   Roll No: 20252501086
+   Name: Ujjwalsing Amarsing Dhawliya
+   Marks: 8.0/10
+   Reason for deduction: Minor logical gaps in proofs, one incorrect relation property, lack of full rigor in establishing bijectivity for challenging problems.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q1 : Circular reasoning in Case 1, and informal proof for Case 2.
+       Q5(a) : Incorrectly identified transitivity. The relation is transitive.
+       Q10 : Proposed map is not a true bijection without careful handling of non-unique binary representations.
+       Q11 : Interleaving decimal digits for |R|=|R^2| is not a rigorous bijection without addressing non-unique decimal representations.
+   Missing questions: None
+   Plagiarism: Plagiarism reported for Q11 compared to tutorial 4 -20252503046.pdf (Sharad Kumaun). The specific bijective function for R to (0,1) is identical, and the description of the interleaving method for R to R^2 is very similar in phrasing and example.
+
+---
+Student: ma102 4 tutorial.pdf
+   Roll No: 20252501003
+   Name: Tammoy sarkar
+   Marks: 9.5/10
+   Reason for deduction: Lack of full rigor in establishing bijectivity for one challenging problem.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q10 : Proposed map is not a true bijection without careful handling of non-unique binary representations.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: math_tut4_20252501083.pdf
+   Roll No: 20252501083
+   Name: 20252501083 (Name not found in PDF, using Roll No.)
+   Marks: 9.5/10
+   Reason for deduction: One incorrect relation property.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5(a) : Incorrectly identified transitivity. The relation is transitive.
+   Missing questions: None
+   Plagiarism: None
+
+---
+Student: tutorial 4 -20252503046.pdf
+   Roll No: 20252503046
+   Name: Sharad Kumaun
+   Marks: 8.5/10
+   Reason for deduction: One incorrect relation property, lack of full rigor in establishing bijectivity for challenging problems.
+
+Detailed Feedback:
+   Questions where marks were deducted:
+       Q5(a) : Incorrectly identified transitivity. The relation is transitive.
+       Q10 : Proposed map is not a true bijection without careful handling of non-unique binary representations.
+       Q11 : Interleaving decimal digits for |R|=|R^2| is not a rigorous bijection without addressing non-unique decimal representations.
+   Missing questions: None
+   Plagiarism: Plagiarism reported for Q11 compared to Tutorial-4 20252501086.pdf (Ujjwalsing Dhawliya). The specific bijective function for R to (0,1) is identical, and the description of the interleaving method for R to R^2 is very similar in phrasing and example.
